@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+
+
 <div align="center">
   <a href="https://linkedin.com/in/voaneves">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Acesse meu LinkedIn">
@@ -16,6 +18,7 @@
   <a href="https://voaneves.com">
     <img src="https://img.shields.io/badge/-Meu%20Site-black.svg?style=for-the-badge&logo=pinboard&colorB=555" alt="Acesse meu YouTube">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=voaneves&style=for-the-badge&color=cc0000" alt="Contador de visitantes">
   <hr>
   <a href="https://github.com/voaneves">
     <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cc0000&center=true&vCenter=true&width=600&height=70&lines=Hello,+World!;Me+chamo+Victor,+ou+@voaneves;Vamos+colaborar!" alt="Header">
@@ -70,7 +73,7 @@ Minhas habilidades incluem Gestão de Projetos (Agile, Scrum, kanban, lean six s
 
 <br />
 
-Sou também um avid language learner! Saiba mais abaixo ⮟
+Sou também um life-long language learner! Saiba mais abaixo ⮟
 
 <br />
 
@@ -126,4 +129,5 @@ Sou também um avid language learner! Saiba mais abaixo ⮟
 
 </details>
 
-<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
