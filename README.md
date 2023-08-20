@@ -129,29 +129,148 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Forças e habilidades
+## Habilidades
 
-## Ferramentas e Tecnologias
+### Soft skills
+
+### Hard skills
+
+#### Fullstack webdev
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-FB542B?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### Artificial Intelligence
+
+<p>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Reinforcement Learning" src="https://img.shields.io/badge/Reinforcement%20Learning-3498db?style=flat-square&logoColor=white" />
+  <img alt="Natural Language Processing" src="https://img.shields.io/badge/NLP-1abc9c?style=flat-square&logoColor=white" />
+  <img alt="Large Language Models" src="https://img.shields.io/badge/LLMs-f39c12?style=flat-square&logoColor=white" />
+  <img alt="Mixture of Experts" src="https://img.shields.io/badge/MoE-8e44ad?style=flat-square&logoColor=white" />
+</p>
+
+#### Project Management
+
+<p>
+  <img alt="Agile" src="https://img.shields.io/badge/Agile-008080?style=flat-square&logo=agile&logoColor=white" />
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-4A90E2?style=flat-square&logo=scrum&logoColor=white" />
+  <img alt="Waterfall" src="https://img.shields.io/badge/Waterfall-7E57C2?style=flat-square&logo=waterfall&logoColor=white" />
+  <img alt="PMBOK" src="https://img.shields.io/badge/PMBOK-009688?style=flat-square&logo=pmbok&logoColor=white" />
+  <img alt="Lean Six Sigma" src="https://img.shields.io/badge/Lean%20Six%20Sigma-43A047?style=flat-square&logo=lean-six-sigma&logoColor=white" />
+  <img alt="Kanban" src="https://img.shields.io/badge/Kanban-F9A825?style=flat-square&logo=kanban&logoColor=white" />
+</p>
+
+#### Strategic Planning
+
+<p>
+  <img alt="SWOT" src="https://img.shields.io/badge/SWOT-FF5733?style=flat-square&logo=swot&logoColor=white" />
+  <img alt="BSc (Balanced Scorecard)" src="https://img.shields.io/badge/BSc-8E44AD?style=flat-square&logo=bsc&logoColor=white" />
+  <img alt="PEST" src="https://img.shields.io/badge/PEST-3498DB?style=flat-square&logo=pest&logoColor=white" />
+  <img alt="Ansoff" src="https://img.shields.io/badge/Ansoff-1ABC9C?style=flat-square&logo=ansoff&logoColor=white" />
+  <img alt="OKRs (Objectives and Key Results)" src="https://img.shields.io/badge/OKRs-F1C40F?style=flat-square&logo=okrs&logoColor=white" />
+  <img alt="Porter's Five Forces" src="https://img.shields.io/badge/Porter's%20Five%20Forces-E74C3C?style=flat-square&logo=porter's&logoColor=white" />
+</p>
+
+#### Collaboration and cloud
+
+<p>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="Asana" src="https://img.shields.io/badge/-Asana-FC636B?style=flat-square&logo=asana&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Microsoft Planner" src="https://img.shields.io/badge/-Microsoft%20Planner-01787C?style=flat-square&logo=microsoftplanner&logoColor=white" />
+</p>
+
+#### Design & Marketing Strategy
+
+<p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-12AA59?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-450135?style=flat-square&logo=adobexd&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001d34?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-4165ec?style=flat-square&logo=canva&logoColor=white" />
+  <img alt="SWOT Analysis" src="https://img.shields.io/badge/SWOT%20Analysis-2c3e50?style=flat-square&logoColor=white" />
+  <img alt="GE-McKinsey Matrix" src="https://img.shields.io/badge/GE-McKinsey%20Matrix-8e44ad?style=flat-square&logoColor=white" />
+  <img alt="BCG Matrix" src="https://img.shields.io/badge/BCG%20Matrix-e74c3c?style=flat-square&logoColor=white" />
+  <img alt="Business Model Canvas" src="https://img.shields.io/badge/Business%20Model%20Canvas-2980b9?style=flat-square&logoColor=white" />
+  <img alt="Design Thinking" src="https://img.shields.io/badge/Design%20Thinking-27ae60?style=flat-square&logoColor=white" />
+</p>
+
+#### Business Intelligence
+
+<p>
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SAS" src="https://img.shields.io/badge/SAS-0092BE?style=flat-square&logo=sas&logoColor=white" />
+  <img alt="Qlik" src="https://img.shields.io/badge/Qlik-8DC63F?style=flat-square&logo=qlik&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Data Studio" src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+#### Big Data
+
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-FF7B00?style=flat-square&logo=apache-hadoop&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+</p>
+
+#### Languages
+
+<p>
+  <img alt="Português (Nativo)" src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square&logo=brazil&logoColor=white" />
+  <img alt="English (Fluent)" src="https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=united-kingdom&logoColor=white" />
+  <img alt="Español (Experto)" src="https://img.shields.io/badge/Español-Experto-yellow?style=flat-square&logo=spain&logoColor=white" />
+  <img alt="한국어 (기초)" src="https://img.shields.io/badge/한국어-기초-red?style=flat-square&logo=south-korea&logoColor=white" />
+  <img alt="Deutsch (Anfänger)" src="https://img.shields.io/badge/Deutsch-Anfänger-yellow?style=flat-square&logo=germany&logoColor=black" />
+</p>
+
+#### Mechanical Engineering
+
+<p>
+  <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-0078D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img alt="ANSYS" src="https://img.shields.io/badge/-ANSYS-FF5757?style=flat-square&logo=ansys&logoColor=white" />
+  <img alt="Creo" src="https://img.shields.io/badge/-Creo-ED8B00?style=flat-square&logo=creo&logoColor=white" />
+</p>
+
+#### Additional & Extra
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-007396?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 ## Stats
