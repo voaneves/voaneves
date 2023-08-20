@@ -40,18 +40,18 @@
 <details>
   <summary>Sumário</summary>
   <ol>
+    <li><a href="#sobre-mim">Sobre o projeto</a></li>
+    <li><a href="featured-projects">Featured projects</a></li>
     <li>
-      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <a href="#habilidades">Habilidades</a>
       <ul>
-        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+        <li><a href="#soft-skills">Soft skills</a></li>
+        <li><a href="#soft-skills">Hard skills</a></li>
       </ul>
     </li>
-    <li><a href="#funcionalidades">Funcionalidades</a></li>
-    <li><a href="#estrutura-do-projeto">Estrutura do projeto</a></li>
-    <li><a href="#como-usar">Como usar</a></li>
-    <li><a href="#to-do">To do</a></li>
-    <li><a href="#reportando-bugs">Reportando bugs</a></li>
-    <li><a href="#licença">Licença</a></li>
+    <li><a href="#stats">Stats</a></li>
+    <li><a href="#run-my-profile-🤣">Run my profile 🤣</a></li>
+    <li><a href="#let's-colab-🚀">Let's colab 🚀</a></li>
   </ol>
 </details>
 
@@ -574,5 +574,11 @@ Ao longo da minha carreira, tive a oportunidade de explorar e desenvolver uma va
 ```
 
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Let's colab 🚀
+
+> under construction...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
