@@ -50,8 +50,8 @@
       </ul>
     </li>
     <li><a href="#stats">Stats</a></li>
-    <li><a href="#run-my-profile-🤣">Run my profile 🤣</a></li>
-    <li><a href="#let's-colab-🚀">Let's colab 🚀</a></li>
+    <li><a href="#run-my-profile-">Run my profile 🤣</a></li>
+    <li><a href="#let's-colab-">Let's colab 🚀</a></li>
   </ol>
 </details>
 
