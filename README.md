@@ -129,9 +129,35 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Featured projects
+
+> under construction...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Habilidades
 
+Ao longo da minha carreira, tive a oportunidade de explorar e desenvolver uma variedade de habilidades que se estendem por várias disciplinas. Desde a minha formação em engenharia mecânica pela UNICAMP até os estudos em Sistemas de Informação na XP Educação, sempre fui motivado por uma curiosidade genuína e um desejo de aprender. Em cada etapa, busquei entender os princípios fundamentais e aplicá-los de maneira prática, desenvolvendo assim as seguintes habilidades abaixo.
+
 ### Soft skills
+
+#### Fortalezas (Strengths)
+
+<p>
+  <img alt="Execution (Planning and Organization)" src="https://img.shields.io/badge/Execution%20(Planning%20and%20Organization)-%23007BFF?style=flat-square" />
+  <img alt="Scientific, Critical and Creative Thinking (Analytical Ability)" src="https://img.shields.io/badge/Scientific,%20Critical%20and%20Creative%20Thinking%20(Analytical%20Ability)-%239C27B0?style=flat-square" />
+  <img alt="Knowledge (Conceptual Thinking)" src="https://img.shields.io/badge/Knowledge%20(Conceptual%20Thinking)-%234CAF50?style=flat-square" />
+  <img alt="Adaptability" src="https://img.shields.io/badge/Adaptability-%23FFC107?style=flat-square" />
+  <img alt="Emotional Intelligence" src="https://img.shields.io/badge/Emotional%20Intelligence-%23009688?style=flat-square" />
+</p>
+
+#### Fraquezas (Weaknesses)
+
+<p>
+  <img alt="Work and Life Project (Ambition)" src="https://img.shields.io/badge/Work%20and%20Life%20Project%20(Ambition)-%23F44336?style=flat-square" />
+  <img alt="Entrepreneurship (Risk Taking)" src="https://img.shields.io/badge/Entrepreneurship%20(Risk%20Taking)-%23E91E63?style=flat-square" />
+  <img alt="Relationship Management (Communication)" src="https://img.shields.io/badge/Relationship%20Management%20(Communication)-%23FFC107?style=flat-square" />
+</p>
 
 ### Hard skills
 
@@ -248,7 +274,7 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
 #### Languages
 
 <p>
-  <img alt="Português (Nativo)" src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square&logo=brazil&logoColor=white" />
+  <img alt="Português (Nativo)" src="https://img.shields.io/badge/Português-Nativo-089e40?style=flat-square&logo=brazil&logoColor=white" />
   <img alt="English (Fluent)" src="https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=united-kingdom&logoColor=white" />
   <img alt="Español (Experto)" src="https://img.shields.io/badge/Español-Experto-yellow?style=flat-square&logo=spain&logoColor=white" />
   <img alt="한국어 (기초)" src="https://img.shields.io/badge/한국어-기초-red?style=flat-square&logo=south-korea&logoColor=white" />
@@ -273,7 +299,11 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
   <img alt="C++" src="https://img.shields.io/badge/-C++-007396?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Stats
+
+<br /><br />
 
 <div align="center">
   <picture>
@@ -288,3 +318,261 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 </div>
+
+<br />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Run my profile 🤣
+
+<details>
+  <summary>in Python 👍</summary>
+
+  ```python
+  class Programmer:
+      def __init__(self):
+          self.languages = []
+          self.frameworks = []
+          self.tools = []
+          self.soft_skills = []
+  
+      def aboutMe(self):
+          return (f"I am skilled in various languages such as {', '.join(self.languages)}, "
+                  f"and have experience with frameworks like {', '.join(self.frameworks)}. "
+                  f"I often use tools like {', '.join(self.tools)}.")
+  
+  class Victor(Programmer):
+      def __init__(self):
+          super().__init__()
+          self.name = "Victor Neves"
+          self.title = "Tech Enthusiast, AI Lover & Mechanical Engineer"
+          
+          # Languages
+          self.languages = [
+              "Python", "Java", "SQL", "Javascript", "Julia",
+              "R", "TypeScript", "HTML5", "CSS3", "C", "C++"
+          ]
+          
+          # Frameworks and Libraries
+          self.frameworks = [
+              "React", "TensorFlow", "Angular", "Django", "Keras",
+              "Node.js", "scikit-learn", "OpenCV", "Webpack", "Sass",
+              "Pandas", "NumPy", "Bootstrap", "Git", "Docker"
+          ]
+          
+          # Project Management, Cloud, and others
+          self.tools = [
+              "Agile", "Scrum", "Kanban", "AWS", "Google Cloud Platform",
+              "Trello", "Asana", "Slack", "Microsoft Teams", "Notion",
+              "Figma", "Adobe XD", "PowerBI", "Tableau", "MongoDB",
+              "Hadoop", "Apache Spark", "Neo4j", "AutoCAD", "SolidWorks",
+              "MATLAB", "ANSYS", "Creo", "MySQL", "GitHub"
+          ]
+          
+          # Soft skills
+          self.soft_skills = [
+              "Planning and Organization",
+              "Analytical Ability",
+              "Emotional Intelligence",
+          ]
+  
+      def aboutMe(self):
+          title = str(self.title.title())
+          about_text = (f"Hello! My name is {self.name} and I'm a {title}. "
+                        f"{super().aboutMe()} "
+                        f"My soft skills include {', '.join(self.soft_skills)}.")
+          return about_text
+
+      if __name__ == "__main__":
+          victor = Victor()
+          print(victor.aboutMe())
+  ```
+  
+</details>
+
+<details>
+  <summary>in Javascript ❤️</summary>
+
+  ```js
+    class Programmer {
+        constructor() {
+            this.languages = [];
+            this.frameworks = [];
+            this.tools = [];
+            this.soft_skills = [];
+        }
+    
+        aboutMe() {
+            return `I am skilled in various languages such as ${this.languages.join(', ')}, ` +
+                `and have experience with frameworks like ${this.frameworks.join(', ')}. ` +
+                `I often use tools like ${this.tools.join(', ')}.`;
+        }
+    }
+    
+    class Victor extends Programmer {
+        constructor() {
+            super();
+            this.name = "Victor Neves";
+            this.title = "Tech Enthusiast, AI Lover & Mechanical Engineer";
+            
+            this.languages = [
+                "Python", "Java", "SQL", "Javascript", "Julia",
+                "R", "TypeScript", "HTML5", "CSS3", "C", "C++"
+            ];
+            
+            this.frameworks = [
+                "React", "TensorFlow", "Angular", "Django", "Keras",
+                "Node.js", "scikit-learn", "OpenCV", "Webpack", "Sass",
+                "Pandas", "NumPy", "Bootstrap", "Git", "Docker"
+            ];
+            
+            this.tools = [
+                "Agile", "Scrum", "Kanban", "AWS", "Google Cloud Platform",
+                "Trello", "Asana", "Slack", "Microsoft Teams", "Notion",
+                "Figma", "Adobe XD", "PowerBI", "Tableau", "MongoDB",
+                "Hadoop", "Apache Spark", "Neo4j", "AutoCAD", "SolidWorks",
+                "MATLAB", "ANSYS", "Creo", "MySQL", "GitHub"
+            ];
+            
+            this.soft_skills = [
+                "Planning and Organization",
+                "Analytical Ability",
+                "Emotional Intelligence"
+            ];
+        }
+    
+        aboutMe() {
+            const title = this.title.charAt(0).toUpperCase() + this.title.slice(1);
+            return `Hello! My name is ${this.name} and I'm a ${title}. ` +
+                `${super.aboutMe()} ` +
+                `My soft skills include ${this.soft_skills.join(', ')}.`;
+        }
+    }
+    
+    const victor = new Victor();
+    console.log(victor.aboutMe());
+  ```
+    
+</details>
+
+<details>
+  <summary>in Julia 🔥</summary>
+
+  ```julia
+  abstract type Programmer end
+  
+  mutable struct Victor <: Programmer
+      name::String
+      title::String
+      languages::Vector{String}
+      frameworks::Vector{String}
+      tools::Vector{String}
+      soft_skills::Vector{String}
+  end
+  
+  function aboutMe(p::Programmer)
+      return "This function should be overridden in subclasses."
+  end
+  
+  function aboutMe(v::Victor)
+      title = uppercase(v.title[1]) * v.title[2:end]
+      languages_str = join(v.languages, ", ")
+      frameworks_str = join(v.frameworks, ", ")
+      tools_str = join(v.tools, ", ")
+      soft_skills_str = join(v.soft_skills, ", ")
+      
+      return "Hello! My name is $(v.name) and I'm a $title. " *
+             "I am skilled in various languages such as $languages_str, " *
+             "and have experience with frameworks like $frameworks_str. " *
+             "I often use tools like $tools_str. " *
+             "My soft skills include $soft_skills_str."
+  end
+  
+  victor = Victor("Victor Neves",
+      "Tech Enthusiast, AI Lover & Mechanical Engineer",
+      ["Python", "Java", "SQL", "Javascript", "Julia", "R", "TypeScript", "HTML5", "CSS3", "C", "C++"],
+      ["React", "TensorFlow", "Angular", "Django", "Keras", "Node.js", "scikit-learn", "OpenCV", "Webpack", "Sass", "Pandas", "NumPy", "Bootstrap", "Git", "Docker"],
+      ["Agile", "Scrum", "Kanban", "AWS", "Google Cloud Platform", "Trello", "Asana", "Slack", "Microsoft Teams", "Notion", "Figma", "Adobe XD", "PowerBI", "Tableau", "MongoDB", "Hadoop", "Apache Spark", "Neo4j", "AutoCAD", "SolidWorks", "MATLAB", "ANSYS", "Creo", "MySQL", "GitHub"],
+      ["Planning and Organization", "Analytical Ability", "Emotional Intelligence"])
+  
+  println(aboutMe(victor))
+  ```
+    
+</details>
+
+<details>
+  <summary>in C++ 😲</summary>
+  
+  ```cpp
+  #include <iostream>
+  #include <vector>
+  #include <string>
+  
+  class Programmer {
+  public:
+      virtual std::string aboutMe() {
+          return "This function should be overridden in subclasses.";
+      }
+  };
+  
+  class Victor : public Programmer {
+  public:
+      std::string name;
+      std::string title;
+      std::vector<std::string> languages;
+      std::vector<std::string> frameworks;
+      std::vector<std::string> tools;
+      std::vector<std::string> soft_skills;
+  
+      Victor(const std::string& _name, const std::string& _title,
+             const std::vector<std::string>& _languages, const std::vector<std::string>& _frameworks,
+             const std::vector<std::string>& _tools, const std::vector<std::string>& _soft_skills)
+          : name(_name), title(_title), languages(_languages), frameworks(_frameworks),
+            tools(_tools), soft_skills(_soft_skills) {}
+  
+      std::string aboutMe() override {
+          std::string title = this->title;
+          title[0] = std::toupper(title[0]);
+          std::string languages_str = joinVector(languages, ", ");
+          std::string frameworks_str = joinVector(frameworks, ", ");
+          std::string tools_str = joinVector(tools, ", ");
+          std::string soft_skills_str = joinVector(soft_skills, ", ");
+          
+          return "Hello! My name is " + name + " and I'm a " + title + ". " +
+                 "I am skilled in various languages such as " + languages_str + ", " +
+                 "and have experience with frameworks like " + frameworks_str + ". " +
+                 "I often use tools like " + tools_str + ". " +
+                 "My soft skills include " + soft_skills_str + ".";
+      }
+  
+  private:
+      std::string joinVector(const std::vector<std::string>& vec, const std::string& delimiter) {
+          std::string result;
+          for (size_t i = 0; i < vec.size(); ++i) {
+              result += vec[i];
+              if (i < vec.size() - 1) {
+                  result += delimiter + " ";
+              }
+          }
+          return result;
+      }
+  };
+  
+  int main() {
+      std::vector<std::string> languages = {"Python", "Java", "SQL", "Javascript", "Julia", "R", "TypeScript", "HTML5", "CSS3", "C", "C++"};
+      std::vector<std::string> frameworks = {"React", "TensorFlow", "Angular", "Django", "Keras", "Node.js", "scikit-learn", "OpenCV", "Webpack", "Sass", "Pandas", "NumPy", "Bootstrap", "Git", "Docker"};
+      std::vector<std::string> tools = {"Agile", "Scrum", "Kanban", "AWS", "Google Cloud Platform", "Trello", "Asana", "Slack", "Microsoft Teams", "Notion", "Figma", "Adobe XD", "PowerBI", "Tableau", "MongoDB", "Hadoop", "Apache Spark", "Neo4j", "AutoCAD", "SolidWorks", "MATLAB", "ANSYS", "Creo", "MySQL", "GitHub"};
+      std::vector<std::string> soft_skills = {"Planning and Organization", "Analytical Ability", "Emotional Intelligence"};
+  
+      Victor victor("Victor Neves", "Tech Enthusiast, AI Lover & Mechanical Engineer",
+                    languages, frameworks, tools, soft_skills);
+  
+      std::cout << victor.aboutMe() << std::endl;
+      
+      return 0;
+  }
+```
+
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
