@@ -133,6 +133,8 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
 
 Acesse minha timeline também no modelo Super Mario World [no link](https://voaneves.com/timeline).
 
+[![Minha timeline de Super Mario](img/timeline.png)](https://voaneves.com/timeline)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Featured projects
