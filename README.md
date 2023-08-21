@@ -4,21 +4,23 @@
   <a href="https://linkedin.com/in/voaneves">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Acesse meu LinkedIn">
   </a>
-  <a href="[https://linkedin.com/in/voaneves](https://stackoverflow.com/users/10596901/voaneves)">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-black.svg?style=for-the-badge&logo=stackoverflow&colorB=555" alt="Acesse meu LinkedIn">
+  <a href="https://stackoverflow.com/users/10596901/voaneves">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-black.svg?style=for-the-badge&logo=stackoverflow&colorB=555" alt="Acesse meu Stack Overflow">
   </a>
   <a href="https://github.com/voaneves">
-    <img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555" alt="Acesse meu LinkedIn">
-  </a>
-  <a href="https://youtube.com/voaneves">
-    <img src="https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555" alt="Acesse meu YouTube">
+    <img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555" alt="Acesse meu GitHub">
   </a>
   <a href="https://voaneves.com">
     <img src="https://img.shields.io/badge/-Meu%20Site-black.svg?style=for-the-badge&logo=pinboard&colorB=555" alt="Acesse meu YouTube">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=voaneves&style=for-the-badge&color=cc0000" alt="Contador de visitantes">
+  <a href="https://youtube.com/voaneves">
+    <img src="https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555" alt="Acesse meu YouTube">
+  </a>
+  <a href="https://github.com/voaneves/voaneves">
+    <img src="https://komarev.com/ghpvc/?username=voaneves&style=for-the-badge&color=cc0000" alt="Contador de visitantes">
+  </a>
   <hr>
-  <a href="https://github.com/voaneves">
+  <a href="https://github.com/voaneves/voaneves">
     <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cc0000&center=true&vCenter=true&width=600&height=70&lines=Hello,+World!;Me+chamo+Victor,+ou+@voaneves;Vamos+colaborar!" alt="Header">
   </a>
   <br />
@@ -127,21 +129,78 @@ Sou também um life-long language learner! Saiba mais abaixo ⮟
 
 </details>
 
+<br />
+
+Acesse minha timeline também no modelo Super Mario World [no link](https://voaneves.com/timeline).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Featured projects
 
-> under construction...
+<div align="center">
+  <a href="https://github.com/voaneves/voaneves.github.io">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=voaneves.github.io&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=voaneves.github.io"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=voaneves.github.io" />
+    </picture>
+  </a>
+  <a href="https://github.com/voaneves/snake-on-pygame">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=snake-on-pygame&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=snake-on-pygame"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=snake-on-pygame" />
+    </picture>
+  </a>
+  <a href="https://github.com/voaneves/colab-rl">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=colab-rl&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=colab-rl"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=colab-rl" />
+    </picture>
+  </a>
+  <a href="https://github.com/voaneves/color-picker">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=color-picker&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=color-picker"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=voaneves&repo=color-picker" />
+    </picture>
+  </a>
+</div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/voaneves?tab=repositories">see more</a>)(<a href="#readme-top">back to top</a>)</p>
 
 ## Habilidades
 
 Ao longo da minha carreira, tive a oportunidade de explorar e desenvolver uma variedade de habilidades que se estendem por várias disciplinas. Desde a minha formação em engenharia mecânica pela UNICAMP até os estudos em Sistemas de Informação na XP Educação, sempre fui motivado por uma curiosidade genuína e um desejo de aprender. Em cada etapa, busquei entender os princípios fundamentais e aplicá-los de maneira prática, desenvolvendo assim as seguintes habilidades abaixo.
 
-### Soft skills
+### Soft skills 
 
-#### Fortalezas (Strengths)
+Já fiz inúmeros testes de perfil e, dentre eles, um que gostei bastante foi o teste do ([mindsight](https://mindsight.com.br/), que me permitiu encontrar minhas forças que estão abaixo.
 
 <p>
   <img alt="Execution (Planning and Organization)" src="https://img.shields.io/badge/Execution%20(Planning%20and%20Organization)-%23007BFF?style=flat-square" />
@@ -149,14 +208,6 @@ Ao longo da minha carreira, tive a oportunidade de explorar e desenvolver uma va
   <img alt="Knowledge (Conceptual Thinking)" src="https://img.shields.io/badge/Knowledge%20(Conceptual%20Thinking)-%234CAF50?style=flat-square" />
   <img alt="Adaptability" src="https://img.shields.io/badge/Adaptability-%23FFC107?style=flat-square" />
   <img alt="Emotional Intelligence" src="https://img.shields.io/badge/Emotional%20Intelligence-%23009688?style=flat-square" />
-</p>
-
-#### Fraquezas (Weaknesses)
-
-<p>
-  <img alt="Work and Life Project (Ambition)" src="https://img.shields.io/badge/Work%20and%20Life%20Project%20(Ambition)-%23F44336?style=flat-square" />
-  <img alt="Entrepreneurship (Risk Taking)" src="https://img.shields.io/badge/Entrepreneurship%20(Risk%20Taking)-%23E91E63?style=flat-square" />
-  <img alt="Relationship Management (Communication)" src="https://img.shields.io/badge/Relationship%20Management%20(Communication)-%23FFC107?style=flat-square" />
 </p>
 
 ### Hard skills
