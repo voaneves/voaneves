@@ -22,7 +22,7 @@
 
 Sou **Victor Otávio Andrade das Neves (Victor Neves)**, **engenheiro mecânico pela UNICAMP que virou desenvolvedor**, com pós-graduação em BI, Big Data e Inteligência Artificial, e uso as duas formações juntas: rigor de processo, leitura de dados e código que vai para produção. Desenvolvo de ponta a ponta, do protótipo no Figma ao deploy, em várias stacks: **Java, PHP e Laravel, Angular, React, Astro, Vite e Jamstack**, com arquiteturas **serverless** e entrega por **GitOps**.
 
-Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como **Analista Webdesigner na ALETO**. Antes passei pelo **SEBRAE Tocantins**, como Agente Local de Inovação, Analista Técnico e Gestor do Escritório de Processos, e sigo como avaliador de projetos de Big Data, IA e Engenharia no **Projeto Centelha**.
+Programo desde os 11 anos, quando montei o meu primeiro blog. Desde março de 2026 trabalho como **Analista Webdesigner na ALETO**. Antes passei pelo **SEBRAE Tocantins**, como Agente Local de Inovação, Analista Técnico e Gestor do Escritório de Processos, e sigo como avaliador de projetos de Big Data, IA e Engenharia no **Projeto Centelha**.
 
 ## 📈 Em números
 
@@ -60,18 +60,20 @@ Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como
 
 ## 🏆 Reconhecimentos
 
-- 🥇 **1º lugar** no Santander Bootcamp 2025 (Back-End com Python, FastAPI e Docker).
-- 🥇 **1º lugar** no Bootcamp Nexa 2024 (IA Generativa) e no Santander Bootcamp AWS 2024.
-- 🥇 **1º lugar** no Santander Bootcamp 2023 (Ciência de Dados), entre 17.600 participantes.
-- 🥇 **1º lugar** em "Estratégia em Alto Mar" (SEBRAE Tocantins).
+- 🥇 **1º lugar** no Santander Bootcamp 2025: Back-End com Python, FastAPI e Docker.
+- 🥈 **2º lugar** no Santander Bootcamp 2025: Ciência de Dados com Python.
+- 🥇 **1º lugar** no Santander 2024: Preparatório para Certificação AWS.
+- 🥇 **1º lugar** no Bootcamp Nexa 2024: Fundamentos de IA Generativa e Claude 3 (AWS Bedrock).
+- 🥇 **1º lugar** no Santander Bootcamp 2023: Ciência de Dados, entre 17.600 participantes.
+- 🥇 **1º lugar** em "Estratégia em Alto Mar" (SEBRAE Tocantins, 2024).
 - 🎓 Lean Six Sigma Green Belt · Google Project Management e Data Analytics · University of Cambridge (Skills for the Green Transition) · PwC (Data-driven Decision Making e Excel avançado) · Preparatório AWS e IA Generativa com Claude 3 (DIO) · Accenture e Huawei (IA).
 
 ## 🧬 Trajetória
 
 | Quando | Onde | O quê |
 | :-- | :-- | :-- |
-| atual | **ALETO** | Analista Webdesigner: design system, full stack, GitOps |
-| antes | **SEBRAE Tocantins** | Agente Local de Inovação (2022), Analista Técnico (2023) e Gestor do Escritório de Processos (2024): +76% de produtividade em MPEs, +50 processos em BPMN, 13+ oficinas de IA |
+| 2026– | **ALETO** | Analista Webdesigner: design system, full stack, GitOps |
+| 2022–2026 | **SEBRAE Tocantins** | Agente Local de Inovação (2022), Analista Técnico (2023) e Gestor do Escritório de Processos (2024): +76% de produtividade em MPEs, +50 processos em BPMN, 13+ oficinas de IA |
 | 2019– | **voaneves.com** | Consultor e Web Developer: 40+ dashboards, sites e apps |
 | 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
 | 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
