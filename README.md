@@ -71,9 +71,7 @@ Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como
 | Quando | Onde | O quê |
 | :-- | :-- | :-- |
 | atual | **ALETO** | Analista Webdesigner: design system, full stack, GitOps |
-| 2024– | **SEBRAE Tocantins** | Gestor do Escritório de Processos: +50 processos em BPMN, OKRs em painéis Qlik Sense |
-| 2023– | **SEBRAE Tocantins** | Analista Técnico: inovação e transformação digital para pequenos negócios |
-| 2022–2023 | **SEBRAE Tocantins** | Agente Local de Inovação (ALI): +76% de produtividade em MPEs, 13+ oficinas de IA |
+| antes | **SEBRAE Tocantins** | Agente Local de Inovação (2022), Analista Técnico (2023) e Gestor do Escritório de Processos (2024): +76% de produtividade em MPEs, +50 processos em BPMN, 13+ oficinas de IA |
 | 2019– | **voaneves.com** | Consultor e Web Developer: 40+ dashboards, sites e apps |
 | 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
 | 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
