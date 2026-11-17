@@ -1,27 +1,48 @@
 <div align="center">
 
 <a href="https://voaneves.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Victor+%F0%9F%91%8B;Analista+Webdesigner+na+ALETO;Design+systems+%C2%B7+Web+%C2%B7+IA+aplicada;Engenheiro+mec%C3%A2nico+que+virou+dev+%F0%9F%9A%80" alt="Victor Neves: Analista Webdesigner, design systems, web e IA aplicada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=700&lines=Victor+Neves+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%26+Webdesigner;Java+%C2%B7+Laravel+%C2%B7+Angular+%C2%B7+Astro+%C2%B7+Jamstack;GitOps+%C2%B7+Serverless+%C2%B7+BI+%C2%B7+IA;Sinal%2C+n%C3%A3o+ru%C3%ADdo." alt="Victor Neves: desenvolvedor full stack e webdesigner. Java, Laravel, Angular, Astro, Jamstack, GitOps, serverless, BI e IA." />
 </a>
 
-**Transformo design em sistema, e sistema em produto que as pessoas usam.**
+**Design, código, infraestrutura e dados em uma só entrega.**
 <br />
-<sub>Web designer and full stack developer: Laravel, Astro, Vite, serverless and GitOps. I turn design into systems, and systems into products people actually use.</sub>
+<sub>Full stack developer and web designer · Java, PHP/Laravel, Angular, Jamstack · GitOps, serverless, BI and AI · Mechanical engineer by training.</sub>
 
 [![Site](https://img.shields.io/badge/voaneves.com-2EA043?style=for-the-badge&logo=astro&logoColor=white)](https://voaneves.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/voaneves)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/voaneves)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10596901/voaneves)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-0a0a0a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://voaneves.com/assets/cv-pt.pdf)
 
 </div>
 
-## 🧭 Agora
+## 👋 Sobre
 
-- 🎨 **Analista Webdesigner na ALETO**: do design ao deploy. Desenvolvimento full stack com Laravel, Astro e Vite, arquiteturas serverless, design system e GitOps.
-- 🧱 Mantenho no GitHub o que uso para aprender e construir: site pessoal, identidade visual como pacote npm, benchmarks de IA e jogos.
-- 🐍 Estudando Reinforcement Learning na prática, com a cobrinha como cobaia.
+Sou **engenheiro mecânico (UNICAMP) que virou desenvolvedor**, e uso as duas formações juntas: rigor de processo, leitura de dados e código que vai para produção. Desenvolvo de ponta a ponta, do protótipo no Figma ao deploy, em várias stacks: **Java, PHP e Laravel, Angular, React, Astro, Vite e Jamstack**, com arquiteturas **serverless** e entrega por **GitOps**.
 
-## 🚀 O que eu construo
+Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como **Analista Webdesigner na ALETO** e sigo à frente do Escritório de Processos no **SEBRAE Tocantins**, além de avaliar projetos de IA e Big Data no **Projeto Centelha**.
+
+## 📈 Em números
+
+| 8+ anos | 40+ projetos | 11 organizações | +76% | Lighthouse |
+| :-: | :-: | :-: | :-: | :-: |
+| dados, processos e código | web, apps e BI entregues | atendidas | produtividade de MPEs no 1º ciclo | 43 → 92 e 62 → 91 em dois sites auditados |
+
+## 🛠️ O que eu faço
+
+| Frente | Como |
+| :-- | :-- |
+| **Full stack** | Java · PHP e Laravel · Python e FastAPI · Node.js · Angular · React · Next.js · Astro · Vite · TypeScript · REST · SQL e NoSQL |
+| **Jamstack e serverless** | Sites estáticos e híbridos, APIs desacopladas, Cloudflare Pages e Workers, AWS, GCP |
+| **Design e design system** | Figma · tokens W3C · biblioteca de componentes · WCAG 2.2 AA · identidade visual como pacote npm |
+| **GitOps e entrega** | Estado em repositório, deploy por merge, CI/CD (GitHub e Forgejo Actions), Docker, documentação como código |
+| **Qualidade e SEO técnico** | Lighthouse CI, Playwright, axe-core, Core Web Vitals, dados estruturados |
+| **Dados, BI e IA** | Power BI · Qlik Sense · Python · Pandas · ETL · LLMs e automações · Reinforcement Learning |
+| **Processos** | BPMN 2.0 · Lean Six Sigma Green Belt · OKRs · Scrum e Kanban |
+
+<sub>Lista completa e sempre atualizada: [perfil técnico](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md).</sub>
+
+## 🚀 Projetos em destaque
 
 | | Projeto | Em uma linha |
 | :-: | :-- | :-- |
@@ -33,29 +54,38 @@
 | 🏰 | [**travian-building-order**](https://github.com/voaneves/travian-building-order) | Otimiza a fila de construção da sua vila no Travian. |
 | 🐷 | [**meupoupig**](https://github.com/voaneves/meupoupig) | Aprenda a investir jogando. [Jogue aqui](https://voaneves.com/meupoupig/). |
 
-<sub>Todos os repositórios: [github.com/voaneves?tab=repositories](https://github.com/voaneves?tab=repositories)</sub>
+<sub>Estudos de caso completos (MTE, dashboards, CAATO, Mota & Godinho, Boas Obras, MIDFLOW) em [voaneves.com](https://voaneves.com/#projetos). Todos os repositórios: [github.com/voaneves?tab=repositories](https://github.com/voaneves?tab=repositories).</sub>
 
-## 🛠️ Stack
+## 🏆 Reconhecimentos
 
-| | |
-| :-- | :-- |
-| **Full stack e front-end** | Laravel · PHP · Astro · Vite · React · TypeScript · JavaScript · HTML5 · CSS/Sass · Figma · Design tokens · Acessibilidade |
-| **IA e dados** | Python · Reinforcement Learning · NLP · LLMs · TensorFlow/Keras · Pandas · Power BI · SQL |
-| **Infra e entrega** | GitOps · Serverless · Docker · CI/CD · Git (GitHub e Forgejo) · Cloudflare Pages · AWS · GCP |
+- 🥇 **1º lugar** no Santander Bootcamp 2025 (Back-End com Python, FastAPI e Docker).
+- 🥇 **1º lugar** no Bootcamp Nexa 2024 (IA Generativa) e no Santander Bootcamp AWS 2024.
+- 🥇 **1º lugar** no Santander Bootcamp 2023 (Ciência de Dados).
+- 🥇 **1º lugar** em "Estratégia em Alto Mar" (SEBRAE Tocantins).
+- 🎓 Lean Six Sigma Green Belt · Google Project Management e Data Analytics · University of Cambridge (Skills for the Green Transition) · PwC (Data Visualization).
 
 ## 🧬 Trajetória
 
-Engenharia Mecânica pela **UNICAMP**, chão de fábrica na **Coca-Cola FEMSA** e na **Krones** (Alemanha), inovação e IA para pequenos negócios no **SEBRAE**, e hoje full stack, design system e GitOps na **ALETO**. Comecei a programar aos 11 anos, com o meu primeiro blog, e nunca parei. Cursando Sistemas de Informação na XP Educação.
+| Quando | Onde | O quê |
+| :-- | :-- | :-- |
+| atual | **ALETO** | Analista Webdesigner: design system, full stack, GitOps |
+| 2024– | **SEBRAE Tocantins** | Gestor do Escritório de Processos: +50 processos em BPMN, OKRs em painéis Qlik Sense |
+| 2022–2024 | **SEBRAE Tocantins** | Analista Técnico e Agente Local de Inovação: +76% de produtividade em MPEs, 13+ oficinas de IA |
+| 2019– | **voaneves.com** | Consultor e Web Developer: 40+ dashboards, sites e apps |
+| 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
+| 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
+| 2018 | **Krones AG**, Alemanha | Summer Intern em Engenharia Industrial |
+| 2012–2018 | **UNICAMP** | Engenharia Mecânica e iniciação científica (CNPq) |
 
 <details>
-<summary>🎲 Fora do código</summary>
+<summary>🌎 Idiomas e vida fora do código</summary>
 
 <br />
 
-- 📚 Mangás, manhwas e animes, e muitos jogos online (foi por eles que aprendi inglês).
-- 🗣️ Português, inglês e espanhol; coreano e alemão em andamento.
-- 🗺️ Google Local Guide nível 6 e avaliador do Programa Centelha.
-- 🤝 Voluntário desde 2013: ONG Sonhar Acordado e ONG Boas Obras (onde fiz o site da organização).
+- 🗣️ Português (nativo) · Inglês C2 · Espanhol C1 · Coreano B1 · Alemão A2.
+- 📚 Mangás, manhwas, animes e jogos online (foi por eles que aprendi inglês).
+- 🗺️ Google Local Guide nível 6.
+- 🤝 Voluntário desde 2013: ONG Sonhar Acordado e ONG Boas Obras, onde criei o site da organização.
 - 🍄 [Minha linha do tempo no estilo Super Mario World](https://voaneves.com/timeline).
 
 [![Minha timeline de Super Mario](img/timeline.png)](https://voaneves.com/timeline)
@@ -64,6 +94,6 @@ Engenharia Mecânica pela **UNICAMP**, chão de fábrica na **Coca-Cola FEMSA** 
 
 ## 🤝 Vamos conversar
 
-Projeto full stack, design system, GitOps, site ou IA aplicada? Chame no [LinkedIn](https://linkedin.com/in/voaneves) ou por [e-mail](mailto:victorneves478@gmail.com).
+Site, app, design system, GitOps, dashboard ou IA aplicada? Chame no [LinkedIn](https://linkedin.com/in/voaneves) ou por [e-mail](mailto:victorneves478@gmail.com).
 
 <div align="center"><sub>Feito com ☕, Astro e um pouco de teimosia.</sub></div>
