@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=700&lines=Victor+Neves+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%26+Webdesigner;Java+%C2%B7+Laravel+%C2%B7+Angular+%C2%B7+Astro+%C2%B7+Jamstack;GitOps+%C2%B7+Serverless+%C2%B7+BI+%C2%B7+IA;Sinal%2C+n%C3%A3o+ru%C3%ADdo." alt="Victor Neves: desenvolvedor full stack e webdesigner. Java, Laravel, Angular, Astro, Jamstack, GitOps, serverless, BI e IA." />
 </a>
 
+# Victor Neves · Desenvolvedor Full Stack e Webdesigner
+
 **Design, código, infraestrutura e dados em uma só entrega.**
 <br />
 <sub>Full stack developer and web designer · Java, PHP/Laravel, Angular, Jamstack · GitOps, serverless, BI and AI · Mechanical engineer by training.</sub>
@@ -18,9 +20,9 @@
 
 ## 👋 Sobre
 
-Sou **engenheiro mecânico (UNICAMP) que virou desenvolvedor**, e uso as duas formações juntas: rigor de processo, leitura de dados e código que vai para produção. Desenvolvo de ponta a ponta, do protótipo no Figma ao deploy, em várias stacks: **Java, PHP e Laravel, Angular, React, Astro, Vite e Jamstack**, com arquiteturas **serverless** e entrega por **GitOps**.
+Sou **Victor Otávio Andrade das Neves (Victor Neves)**, **engenheiro mecânico pela UNICAMP que virou desenvolvedor**, com pós-graduação em BI, Big Data e Inteligência Artificial, e uso as duas formações juntas: rigor de processo, leitura de dados e código que vai para produção. Desenvolvo de ponta a ponta, do protótipo no Figma ao deploy, em várias stacks: **Java, PHP e Laravel, Angular, React, Astro, Vite e Jamstack**, com arquiteturas **serverless** e entrega por **GitOps**.
 
-Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como **Analista Webdesigner na ALETO** e sigo à frente do Escritório de Processos no **SEBRAE Tocantins**, além de avaliar projetos de IA e Big Data no **Projeto Centelha**.
+Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como **Analista Webdesigner na ALETO**. Antes passei pelo **SEBRAE Tocantins**, como Agente Local de Inovação, Analista Técnico e Gestor do Escritório de Processos, e sigo como avaliador de projetos de Big Data, IA e Engenharia no **Projeto Centelha**.
 
 ## 📈 Em números
 
@@ -40,7 +42,7 @@ Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como
 | **Dados, BI e IA** | Power BI · Qlik Sense · Python · Pandas · ETL · LLMs e automações · Reinforcement Learning |
 | **Processos** | BPMN 2.0 · Lean Six Sigma Green Belt · OKRs · Scrum e Kanban |
 
-<sub>Lista completa e sempre atualizada: [perfil técnico](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md).</sub>
+<sub>Lista completa de competências, certificações e palavras-chave: [perfil técnico](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md).</sub>
 
 ## 🚀 Projetos em destaque
 
@@ -60,9 +62,9 @@ Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como
 
 - 🥇 **1º lugar** no Santander Bootcamp 2025 (Back-End com Python, FastAPI e Docker).
 - 🥇 **1º lugar** no Bootcamp Nexa 2024 (IA Generativa) e no Santander Bootcamp AWS 2024.
-- 🥇 **1º lugar** no Santander Bootcamp 2023 (Ciência de Dados).
+- 🥇 **1º lugar** no Santander Bootcamp 2023 (Ciência de Dados), entre 17.600 participantes.
 - 🥇 **1º lugar** em "Estratégia em Alto Mar" (SEBRAE Tocantins).
-- 🎓 Lean Six Sigma Green Belt · Google Project Management e Data Analytics · University of Cambridge (Skills for the Green Transition) · PwC (Data Visualization).
+- 🎓 Lean Six Sigma Green Belt · Google Project Management e Data Analytics · University of Cambridge (Skills for the Green Transition) · PwC (Data-driven Decision Making e Excel avançado) · Preparatório AWS e IA Generativa com Claude 3 (DIO) · Accenture e Huawei (IA).
 
 ## 🧬 Trajetória
 
@@ -70,10 +72,12 @@ Programo desde os 11 anos, quando montei o meu primeiro blog. Hoje trabalho como
 | :-- | :-- | :-- |
 | atual | **ALETO** | Analista Webdesigner: design system, full stack, GitOps |
 | 2024– | **SEBRAE Tocantins** | Gestor do Escritório de Processos: +50 processos em BPMN, OKRs em painéis Qlik Sense |
-| 2022–2024 | **SEBRAE Tocantins** | Analista Técnico e Agente Local de Inovação: +76% de produtividade em MPEs, 13+ oficinas de IA |
+| 2023– | **SEBRAE Tocantins** | Analista Técnico: inovação e transformação digital para pequenos negócios |
+| 2022–2023 | **SEBRAE Tocantins** | Agente Local de Inovação (ALI): +76% de produtividade em MPEs, 13+ oficinas de IA |
 | 2019– | **voaneves.com** | Consultor e Web Developer: 40+ dashboards, sites e apps |
 | 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
 | 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
+| 2014–2018 | **MTE (UNICAMP)** | Membro e Diretor de Marketing do grupo estudantil de carreira em engenharia |
 | 2018 | **Krones AG**, Alemanha | Summer Intern em Engenharia Industrial |
 | 2012–2018 | **UNICAMP** | Engenharia Mecânica e iniciação científica (CNPq) |
 
