@@ -6,7 +6,7 @@
 
 **Transformo design em sistema, e sistema em produto que as pessoas usam.**
 <br />
-<sub>Webdesigner and front-end builder. I turn design into systems, and systems into products people actually use.</sub>
+<sub>Web designer and full stack developer: Laravel, Astro, Vite, serverless and GitOps. I turn design into systems, and systems into products people actually use.</sub>
 
 [![Site](https://img.shields.io/badge/voaneves.com-2EA043?style=for-the-badge&logo=astro&logoColor=white)](https://voaneves.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/voaneves)
@@ -17,7 +17,7 @@
 
 ## 🧭 Agora
 
-- 🎨 **Analista Webdesigner na ALETO**: design system, interfaces e sistemas web, do protótipo ao deploy.
+- 🎨 **Analista Webdesigner na ALETO**: do design ao deploy. Desenvolvimento full stack com Laravel, Astro e Vite, arquiteturas serverless, design system e GitOps.
 - 🧱 Mantenho no GitHub o que uso para aprender e construir: site pessoal, identidade visual como pacote npm, benchmarks de IA e jogos.
 - 🐍 Estudando Reinforcement Learning na prática, com a cobrinha como cobaia.
 
@@ -39,13 +39,13 @@
 
 | | |
 | :-- | :-- |
-| **Design e front-end** | Figma · Design tokens · Astro · React · TypeScript · JavaScript · HTML5 · CSS/Sass · Acessibilidade |
+| **Full stack e front-end** | Laravel · PHP · Astro · Vite · React · TypeScript · JavaScript · HTML5 · CSS/Sass · Figma · Design tokens · Acessibilidade |
 | **IA e dados** | Python · Reinforcement Learning · NLP · LLMs · TensorFlow/Keras · Pandas · Power BI · SQL |
-| **Infra e entrega** | Git · GitHub e Forgejo · Docker · CI/CD · GitOps · Cloudflare Pages · AWS · GCP |
+| **Infra e entrega** | GitOps · Serverless · Docker · CI/CD · Git (GitHub e Forgejo) · Cloudflare Pages · AWS · GCP |
 
 ## 🧬 Trajetória
 
-Engenharia Mecânica pela **UNICAMP**, chão de fábrica na **Coca-Cola FEMSA** e na **Krones** (Alemanha), inovação e IA para pequenos negócios no **SEBRAE**, e hoje design e sistemas web na **ALETO**. Comecei a programar aos 11 anos, com o meu primeiro blog, e nunca parei. Cursando Sistemas de Informação na XP Educação.
+Engenharia Mecânica pela **UNICAMP**, chão de fábrica na **Coca-Cola FEMSA** e na **Krones** (Alemanha), inovação e IA para pequenos negócios no **SEBRAE**, e hoje full stack, design system e GitOps na **ALETO**. Comecei a programar aos 11 anos, com o meu primeiro blog, e nunca parei. Cursando Sistemas de Informação na XP Educação.
 
 <details>
 <summary>🎲 Fora do código</summary>
@@ -64,6 +64,6 @@ Engenharia Mecânica pela **UNICAMP**, chão de fábrica na **Coca-Cola FEMSA** 
 
 ## 🤝 Vamos conversar
 
-Projeto de design system, site, interface ou IA aplicada? Chame no [LinkedIn](https://linkedin.com/in/voaneves) ou por [e-mail](mailto:victorneves478@gmail.com).
+Projeto full stack, design system, GitOps, site ou IA aplicada? Chame no [LinkedIn](https://linkedin.com/in/voaneves) ou por [e-mail](mailto:victorneves478@gmail.com).
 
 <div align="center"><sub>Feito com ☕, Astro e um pouco de teimosia.</sub></div>
