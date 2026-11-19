@@ -1,16 +1,33 @@
+<a id="top"></a>
+
 <div align="center">
 
-<p>🇧🇷 <strong>Português</strong> · <a href="./README.md">🇺🇸 English Version</a></p>
+<p>🇧🇷 <strong>Português (PT-BR)</strong> · <a href="./README.md">🇺🇸 English Version</a></p>
 
 <a href="https://voaneves.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/profile-hero-pt-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/profile-hero-pt-light.svg" />
-    <img alt="VOANEVES. · Victor Neves — Desenvolvedor Full Stack e Webdesigner" src="./assets/brand/profile-hero-pt-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/mark-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/mark-light.svg" />
+    <img alt="VOANEVES. Marca Conceito B (Sinal)" src="./assets/brand/mark-light.svg" width="76" height="76" />
   </picture>
 </a>
 
 <br />
+
+<a href="https://voaneves.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/wordmark-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/wordmark-light.svg" />
+    <img alt="VOANEVES." src="./assets/brand/wordmark-light.svg" width="260" />
+  </picture>
+</a>
+
+<h3>Victor Neves — Desenvolvedor Full Stack, Design Systems &amp; IA Aplicada</h3>
+
+<p>
+  <strong>Sinal, não ruído.</strong> Design, dados e código em produção — sem ruído.<br />
+  <sub>Atendimento no Brasil e no exterior, remoto ou híbrido · <code>voaneves</code> · 🇧🇷 Atendimento em PT, EN &amp; ES</sub>
+</p>
 
 <p>
   <a href="https://voaneves.com"><img src="https://img.shields.io/badge/voaneves.com-0A0A0A?style=flat-square&logo=astro&logoColor=FF3838" alt="voaneves.com" /></a>
@@ -21,37 +38,90 @@
 </p>
 
 <p>
-  <a href="#-sobre">Sobre</a> ·
-  <a href="#%EF%B8%8F-o-que-eu-fa%C3%A7o">Competências</a> ·
-  <a href="#-projetos-em-destaque">Projetos</a> ·
-  <a href="#-reconhecimentos">Reconhecimentos</a> ·
-  <a href="#-trajet%C3%B3ria-e-forma%C3%A7%C3%A3o">Trajetória</a> ·
-  <a href="#-vamos-conversar">Contato</a>
+  <a href="#sobre">Sobre</a> ·
+  <a href="#impacto">Em números</a> ·
+  <a href="#arquitetura">Fluxo</a> ·
+  <a href="#competencias">Competências</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#premios">Prêmios</a> ·
+  <a href="#contato">Contato</a>
 </p>
-
-<sub>Atendimento no Brasil e no exterior, remoto ou híbrido · <code>voaneves</code></sub>
 
 </div>
 
+<details>
+  <summary><strong>Índice</strong> — navegue por todas as seções</summary>
+  <ol>
+    <li><a href="#sobre">Posicionamento Executivo</a></li>
+    <li><a href="#impacto">Impacto Mensurável (KPIs)</a></li>
+    <li><a href="#arquitetura">Fluxo de Engenharia Ponta a Ponta</a></li>
+    <li><a href="#competencias">Cinco Pilares de Competência</a></li>
+    <li><a href="#projetos">Destaques &amp; Repositórios</a></li>
+    <li><a href="#premios">Reconhecimentos &amp; Trajetória Completa</a></li>
+    <li><a href="#contato">Consultoria &amp; Contato Direto</a></li>
+  </ol>
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
   <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
 </picture>
 
+<a id="sobre"></a>
 ## 👋 Sobre
 
-Sou **Victor Otávio Andrade das Neves (Victor Neves)**, **engenheiro mecânico pela UNICAMP** (2012–2018), com **pós-graduação em BI, Big Data e Inteligência Artificial** pela **Faculdade Focus** (2023–2024) e graduando em **Bacharelado em Sistemas de Informação** na **XP Educação** (2023–2027). Uno rigor de processo (BPMN), leitura de dados (BI), IA e desenvolvimento web em entregas mensuráveis — do design ao deploy.
+> [!NOTE]
+> **Rigor de engenharia com entrega visual mensurável.** Engenheiro Mecânico pela **UNICAMP** (2012–2018), pós-graduado em **BI, Big Data e Inteligência Artificial** pela **Faculdade Focus** (2023–2024) e graduando em **Sistemas de Informação** na **XP Educação** (2023–2027). Programo desde os 11 anos.
 
-Programo desde os 11 anos. Desde março de 2026 atuo como **Analista Webdesigner na ALETO** (design system, desenvolvimento full stack, GitOps e documentação como código). Antes, no **SEBRAE Tocantins**, fui Agente Local de Inovação, Analista Técnico e Gestor do Escritório de Processos; mantenho consultoria em **voaneves.com** desde 2019 e sigo como avaliador de projetos de Big Data, IA e Engenharia no **Projeto Centelha** desde 2023. **Atendimento no Brasil e no exterior, remoto ou híbrido.**
+Sou **Victor Otávio Andrade das Neves (Victor Neves)** e uno rigor de processos (BPMN), leitura de dados (BI), IA aplicada e engenharia web full stack em entregas em produção — dos tokens de design ao deploy resiliente:
 
+- **Analista Webdesigner @ ALETO** *(mar/2026–)*: design system, desenvolvimento full stack, GitOps e documentação como código.
+- **Fundador e Consultor @ [voaneves.com](https://voaneves.com)** *(2019–)*: `40+` painéis de BI, sites Jamstack de alta nota no Lighthouse, apps e auditoria WCAG 2.2.
+- **Avaliador @ Projeto Centelha** *(2023–)*: avaliador técnico de projetos de Big Data, IA e Engenharia.
+- **Ex-Gestor do Escritório de Processos, Analista Técnico e ALI @ SEBRAE Tocantins** *(2022–2026)*: `+50` processos BPMN 2.0, `+76%` de ganho de produtividade em MPEs e `13+` oficinas de IA.
+
+<a id="impacto"></a>
 ## 📈 Em números
 
-| 8+ anos | 40+ projetos | 40+ painéis | 11 organizações | +50 processos BPMN 2.0 |
-| :-: | :-: | :-: | :-: | :-: |
-| dados, processos e código | web, apps e BI entregues | Power BI e Qlik Sense | atendidas | mapeados e refinados |
-| **+76%** | **+32%** | **+236%** | **Lighthouse** | **Bootcamps e IA** |
-| produtividade de MPEs no 1º ciclo | cumprimento trimestral de metas | alcance orgânico (MTE) | CAATO 43 → 92 · Mota & Godinho 62 → 91 | 4× 1º lugar + 1× 2º lugar · 13+ oficinas de IA |
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3>8+ anos</h3>
+      <sub>Dados, processos e código em produção</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>40+</h3>
+      <sub>Projetos web, apps e Jamstack entregues</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>40+</h3>
+      <sub>Painéis executivos em Power BI e Qlik Sense</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>+50</h3>
+      <sub>Processos BPMN 2.0 mapeados e otimizados</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <h3>+76%</h3>
+      <sub>Produtividade de MPEs no 1º ciclo SEBRAE</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>+32%</h3>
+      <sub>Cumprimento trimestral de metas (OKRs)</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>+236%</h3>
+      <sub>Crescimento de alcance orgânico no MTE</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>91–100</h3>
+      <sub>Saltos no Lighthouse: 43→92 e 62→91</sub>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -59,19 +129,58 @@ Programo desde os 11 anos. Desde março de 2026 atuo como **Analista Webdesigner
   <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
 </picture>
 
+<a id="arquitetura"></a>
+## 🧭 Como Design, Dados e Código se Conectam
+
+```mermaid
+flowchart LR
+  P["Processos & Estratégia<br/>BPMN 2.0 · DMAIC · OKRs"] --> D["Design Systems<br/>W3C DTCG · WCAG 2.2 AA"]
+  D --> E["Full Stack & Jamstack<br/>Java · Laravel · Astro · Angular"]
+  E --> G["GitOps & Quality Gates<br/>Actions · K8s · Lighthouse · Playwright"]
+  G --> B["Dados, BI & IA Aplicada<br/>Power BI · Python · Bedrock"]
+```
+
+<a id="competencias"></a>
 ## 🛠️ O que eu faço
 
-Cinco frentes integradas da arquitetura ao deploy:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>1. Desenvolvimento Full Stack e Web</h3>
+      <p><strong>Back-end:</strong> Java, PHP e Laravel, Python e FastAPI, Node.js, REST, SQL e NoSQL</p>
+      <p><strong>Front-end e Jamstack:</strong> Angular, React, Next.js, Astro, Vite, TypeScript, JS, HTML5, CSS e Sass; APIs desacopladas, CMS headless e deploy em CDN</p>
+      <p><strong>Mobile, Edge e Qualidade:</strong> React Native, Flutter, PWA; Cloudflare Pages e Workers, AWS, GCP; Lighthouse CI, Playwright, axe-core, Core Web Vitals e SEO técnico (hreflang, canonical, dados estruturados)</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>2. Design e Design System</h3>
+      <p><strong>Tokens e Specs:</strong> Figma, protótipos interativos e design tokens no padrão W3C <strong>DTCG 2025.10</strong></p>
+      <p><strong>Arquitetura:</strong> CSS por tokens, bibliotecas de componentes, ADRs e identidade visual empacotada via npm</p>
+      <p><strong>Acessibilidade:</strong> Auditoria automatizada <strong>WCAG 2.2 AA</strong> e APCA-W3 da fonte JSON até a UI renderizada</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>3. Infraestrutura, GitOps e Entrega</h3>
+      <p><strong>GitOps:</strong> Estado desejado em repositório, deploy por merge e rollback determinístico por revert</p>
+      <p><strong>CI/CD e Contêineres:</strong> GitHub Actions, Forgejo Actions, Docker, Docker Compose e manifestos <strong>Kubernetes</strong></p>
+      <p><strong>Governança:</strong> Hospedagem em Cloudflare, AWS e GCP; docs-as-code e segredos sempre fora do Git</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>4. Dados, BI e IA Aplicada</h3>
+      <p><strong>BI e Modelagem:</strong> Power BI, Qlik Sense e Tableau (<code>40+</code> painéis); SQL, NoSQL, Hadoop e MongoDB</p>
+      <p><strong>Ciência de Dados:</strong> Python, Pandas, NumPy, Jupyter, Julia, pipelines ETL e otimização linear</p>
+      <p><strong>IA e ML:</strong> LLMs com Amazon Bedrock, engenharia de prompt, automações (<code>13+</code> oficinas), Reinforcement Learning (DQN), CNNs e NLP</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>5. Processos, Gestão e Estratégia</h3>
+      <p><strong>BPM e Qualidade:</strong> <strong>BPMN 2.0</strong> (<code>+50</code> processos), mapeamento AS-IS/TO-BE, automação low-code, Lean Six Sigma Green Belt, <strong>DMAIC</strong>, Scrum, Kanban e controle de riscos · <strong>Estratégia:</strong> OKRs (<code>+32%</code> metas), Balanced Scorecard, Matriz BCG, McKinsey 7S, SWOT e metodologia SEBRAE (<code>+76%</code>).</p>
+    </td>
+  </tr>
+</table>
 
-| Pilar | Competências |
-| :-- | :-- |
-| **1. Desenvolvimento full stack e web** | **Back-end:** Java, PHP e Laravel, Python e FastAPI, Node.js, REST, SQL e NoSQL · **Front-end:** Angular, React, Next.js, Astro, Vite, TypeScript, JavaScript, HTML5, CSS e Sass · **Jamstack:** sites estáticos e híbridos, APIs desacopladas, CMS headless, deploy em CDN · **Mobile:** React Native, Flutter, PWA · **Serverless e edge:** Cloudflare Pages e Workers, AWS, GCP · **Qualidade e SEO técnico:** Lighthouse CI, Playwright, axe-core, orçamento de performance, Core Web Vitals, dados estruturados, sitemap, canonical, meta tags e hreflang |
-| **2. Design e design system** | Figma, protótipos e design tokens no padrão W3C/**DTCG** · Biblioteca de componentes, CSS por tokens e documentação de decisões (ADR) · Acessibilidade **WCAG 2.2 AA** e checklists de contraste · Identidade visual (marca, logotipo, paleta e tipografia) entregue como pacote npm |
-| **3. Infraestrutura, GitOps e entrega** | **GitOps:** estado desejado em repositório, deploy por merge e rollback por revert · **CI/CD:** GitHub Actions e Forgejo Actions · **Contêineres e orquestração:** Docker, Docker Compose e **Kubernetes** por manifestos · Hospedagem em Cloudflare, AWS e GCP · Documentação como código e segredos fora do Git |
-| **4. Dados, BI e IA** | **Ciência de dados:** Python, Pandas, NumPy, Jupyter, Julia, ETL e modelagem · **BI:** **Power BI, Qlik Sense e Tableau**; SQL, NoSQL, Hadoop e MongoDB (`40+` painéis) · **IA generativa e LLMs (Amazon Bedrock):** engenharia de prompt, integrações, automações e `13+` oficinas de IA · **ML & RL:** Reinforcement Learning (DQN), redes neurais convolucionais (CNNs) e NLP com benchmarks reprodutíveis |
-| **5. Processos, gestão e estratégia** | **Processos:** **BPMN 2.0** (`+50` processos), mapeamento AS-IS e TO-BE, automação low-code · **Qualidade:** Lean Six Sigma Green Belt, **DMAIC**, Scrum, Kanban, gestão de riscos · **Estratégia:** OKRs (`+32%` metas trimestrais), Balanced Scorecard, Matriz BCG, McKinsey 7S, SWOT · Metodologia SEBRAE de produtividade para MPEs (`+76%` no 1º ciclo), transformação digital e desenvolvimento sustentável |
-
-<sub>Fonte única de posicionamento, competências e palavras-chave: [docs/perfil-tecnico.md](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md) · Padrão visual unificado: [README Brand System](./docs/README-BRAND-SYSTEM.md).</sub>
+<sub>Fonte única de posicionamento e palavras-chave: <a href="https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md">brand/docs/perfil-tecnico.md</a> · Padrão visual: <a href="./docs/README-BRAND-SYSTEM.md">README Brand System</a>.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -79,20 +188,49 @@ Cinco frentes integradas da arquitetura ao deploy:
   <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
 </picture>
 
+<a id="projetos"></a>
 ## 🚀 Projetos em destaque
 
-| | Projeto | Em uma linha | Demo |
-| :-: | :-- | :-- | :-- |
-| 🌐 | [**site**](https://github.com/voaneves/site) | Portfólio **VOANEVES.**: Astro, Cloudflare Pages, GitOps, testes automatizados e Lighthouse 100. | [voaneves.com](https://voaneves.com) |
-| 🎨 | [**brand**](https://github.com/voaneves/brand) | Identidade visual e design system (`@voaneves/brand`) em tokens W3C/DTCG, CSS, JS, fontes, ícones e WCAG 2.2 AA. | — |
-| 👁️ | [**dtcg-contrast**](https://github.com/voaneves/dtcg-contrast) | Quality gate WCAG 2.2 & APCA sem dependências e corretor OKLCH para design tokens W3C DTCG 2025.10 (CLI + GitHub Action). | [npm](https://www.npmjs.com/package/dtcg-contrast) |
-| 🐍 | [**snake-arena**](https://github.com/voaneves/snake-arena) | Benchmark reprodutível em Keras 3 de 14 algoritmos de Reinforcement Learning no Snake (749 testes em pytest). | — |
-| 🎮 | [**snake-on-pygame**](https://github.com/voaneves/snake-on-pygame) | Snake em Python e Pygame jogável por humano ou agente DQN treinado. | — |
-| 🎧 | [**paru-site**](https://github.com/voaneves/paru-site) | Site oficial do DJ e produtor PARU em Vite, React e TypeScript. | [Acessar site](https://voaneves.github.io/paru-site/) |
-| 🏰 | [**travian-building-order**](https://github.com/voaneves/travian-building-order) | Otimizador algorítmico da fila de construção de vilas no Travian. | [Abrir app](https://voaneves.github.io/travian-building-order/) |
-| 🐷 | [**meupoupig**](https://github.com/voaneves/meupoupig) | Jogo educativo interativo de educação financeira e investimentos. | [Jogar aqui](https://voaneves.github.io/meupoupig/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/voaneves/dtcg-contrast">dtcg-contrast</a></h3>
+      <p>Quality gate WCAG 2.2 &amp; APCA sem dependências, relatório SARIF 2.1.0 e corretor automático em OKLCH para design tokens W3C DTCG 2025.10.</p>
+      <p><a href="https://www.npmjs.com/package/dtcg-contrast"><strong>Pacote npm</strong></a> · <a href="https://github.com/voaneves/dtcg-contrast"><strong>GitHub Action</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/voaneves/brand">brand (@voaneves/brand)</a></h3>
+      <p>Identidade visual e design system em W3C DTCG: marca Sinal (Conceito B), tokens, CSS em camadas, ES modules, ícones e contraste WCAG 2.2 AA.</p>
+      <p><a href="https://github.com/voaneves/brand"><strong>Explorar Design System</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/voaneves/site">site (voaneves.com)</a></h3>
+      <p>Portfólio bilíngue de consultoria em Astro, Cloudflare Pages, fluxos GitOps, testes automatizados com Playwright e nota 100 no Lighthouse.</p>
+      <p><a href="https://voaneves.com"><strong>Acessar site</strong></a> · <a href="https://voaneves.com/#projetos"><strong>Estudos de caso</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/voaneves/snake-arena">snake-arena</a></h3>
+      <p>Benchmark reprodutível em Keras 3 comparando 14 algoritmos de Reinforcement Learning no jogo Snake, validado com 749 testes em pytest.</p>
+      <p><a href="https://github.com/voaneves/snake-arena"><strong>Ver Benchmark</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-<sub>Estudos de caso completos (MTE, painéis de BI, CAATO, Mota & Godinho, Boas Obras) em [voaneves.com/#projetos](https://voaneves.com/#projetos). Todos os repositórios: [github.com/voaneves?tab=repositories](https://github.com/voaneves?tab=repositories).</sub>
+<details>
+  <summary><strong>Mais ferramentas open-source, jogos e sites</strong></summary>
+
+  | Projeto | Em uma linha | Demo |
+  | :-- | :-- | :-- |
+  | 🎮 [**snake-on-pygame**](https://github.com/voaneves/snake-on-pygame) | Snake em Python e Pygame jogável por humano ou agente DQN treinado | [Docs](https://voaneves.github.io/snake-on-pygame/) |
+  | 🎧 [**paru-site**](https://github.com/voaneves/paru-site) | Site oficial do DJ e produtor PARU em Vite, React e TypeScript | [Acessar site](https://voaneves.github.io/paru-site/) |
+  | 🏰 [**travian-building-order**](https://github.com/voaneves/travian-building-order) | Otimizador algorítmico da fila de construção de vilas no Travian | [Abrir app](https://voaneves.github.io/travian-building-order/) |
+  | 🐷 [**meupoupig**](https://github.com/voaneves/meupoupig) | Jogo educativo interativo de educação financeira e investimentos (PWA) | [Jogar aqui](https://voaneves.github.io/meupoupig/) |
+
+</details>
+
+<sub>Estudos de caso completos (MTE, painéis de BI, CAATO, Mota &amp; Godinho, Boas Obras) em <a href="https://voaneves.com/#projetos">voaneves.com/#projetos</a> · Todos os repositórios: <a href="https://github.com/voaneves?tab=repositories">github.com/voaneves?tab=repositories</a>.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -100,46 +238,48 @@ Cinco frentes integradas da arquitetura ao deploy:
   <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
 </picture>
 
+<a id="premios"></a>
 ## 🏆 Reconhecimentos
 
-Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar**.
+Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar** em trilhas nacionais de engenharia e IA.
 
 - 🥇 **1º lugar** no Santander Bootcamp 2025: Back-End com Python (FastAPI, Docker, MongoDB).
 - 🥈 **2º lugar** no Santander Bootcamp 2025: Ciência de Dados com Python.
 - 🥇 **1º lugar** no Santander 2024: Preparatório para Certificação AWS (Cloud Practitioner).
 - 🥇 **1º lugar** no Bootcamp Nexa 2024: Fundamentos de IA Generativa (AWS, Amazon Bedrock).
-- 🥇 **1º lugar** no Santander Bootcamp 2023: Ciência de Dados com Python, entre 17.600 participantes.
+- 🥇 **1º lugar** no Santander Bootcamp 2023: Ciência de Dados com Python (entre **17.600 participantes**).
 - 🥇 **1º lugar** em "Estratégia em Alto Mar" (SEBRAE Tocantins, 2024).
 - 🎓 **Certificações:** Lean Six Sigma Green Belt · Google Project Management e Data Analytics · University of Cambridge (*Skills for the Green Transition*) · PwC (*Data-driven Decision Making* e Excel avançado) · Preparatório AWS e IA Generativa (DIO, AWS, Amazon Bedrock) · Accenture e Huawei ICT Academy (IA) · EF SET Inglês C2 (84/100).
 
-## 🧬 Trajetória e formação
+<details>
+  <summary><strong>🧬 Trajetória profissional e formação completa (2012–Atual · 11 experiências)</strong></summary>
 
-| Quando | Onde | O quê |
-| :-- | :-- | :-- |
-| 2026– | **ALETO** | Analista Webdesigner: design system, desenvolvimento full stack, GitOps e documentação como código |
-| 2023–2027 | **XP Educação** | Bacharelado em Sistemas de Informação |
-| 2023–2024 | **Faculdade Focus** | Pós-graduação em BI, Big Data e Inteligência Artificial |
-| 2023– | **Projeto Centelha** | Avaliador de projetos de Big Data, IA e Engenharia |
-| 2022–2026 | **SEBRAE Tocantins** | Agente Local de Inovação (2022), Analista Técnico (2023) e Gestor do Escritório de Processos (2024): `+76%` produtividade em MPEs, `+50` processos BPMN 2.0, `+32%` metas trimestrais, `13+` oficinas de IA |
-| 2019– | **voaneves.com** | Consultor e Web Developer: `40+` painéis de BI, sites e apps |
-| 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
-| 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
-| 2014–2018 | **MTE (UNICAMP)** | Membro e Diretor de Marketing (`+236%` de alcance orgânico) |
-| 2018 | **Krones AG**, Alemanha | Summer Intern em Engenharia Industrial |
-| 2012–2018 | **UNICAMP** | Engenharia Mecânica e iniciação científica em Materiais (PIBIC/CNPq) |
+  | Quando | Onde | O quê |
+  | :-- | :-- | :-- |
+  | 2026– | **ALETO** | Analista Webdesigner: design system, desenvolvimento full stack, GitOps e documentação como código |
+  | 2023–2027 | **XP Educação** | Bacharelado em Sistemas de Informação |
+  | 2023–2024 | **Faculdade Focus** | Pós-graduação em BI, Big Data e Inteligência Artificial |
+  | 2023– | **Projeto Centelha** | Avaliador de projetos de Big Data, IA e Engenharia |
+  | 2022–2026 | **SEBRAE Tocantins** | Agente Local de Inovação (2022), Analista Técnico (2023) e Gestor do Escritório de Processos (2024): `+76%` produtividade em MPEs, `+50` processos BPMN 2.0, `+32%` metas trimestrais, `13+` oficinas de IA |
+  | 2019– | **voaneves.com** | Consultor e Web Developer: `40+` painéis de BI, sites e apps |
+  | 2019–2022 | **Damásio Educacional** | Supervisor de Franquia |
+  | 2017–2019 | **Coca-Cola FEMSA** | Estágio em manutenção (DMAIC) e trainee de planejamento estratégico |
+  | 2014–2018 | **MTE (UNICAMP)** | Membro e Diretor de Marketing (`+236%` de alcance orgânico) |
+  | 2018 | **Krones AG**, Alemanha | Summer Intern em Engenharia Industrial |
+  | 2012–2018 | **UNICAMP** | Engenharia Mecânica e iniciação científica em Materiais (PIBIC/CNPq) |
+
+</details>
 
 <details>
-<summary>🌎 Idiomas e vida fora do código</summary>
+  <summary><strong>🌎 Idiomas, voluntariado e linha do tempo Super Mario World</strong></summary>
 
-<br />
+  - 🗣️ Português (nativo) · Inglês C2 (EF SET 84/100) · Espanhol C1 · Coreano B1 · Alemão A2.
+  - 📚 Mangás, manhwas, animes e jogos online (foi por eles que aprendi inglês).
+  - 🗺️ Google Local Guide nível 6.
+  - 🤝 Voluntário desde 2013: ONG Sonhar Acordado e ONG Boas Obras, onde criei o site da organização.
+  - 🍄 [Minha linha do tempo interativa no estilo Super Mario World](https://voaneves.github.io/timeline/)
 
-- 🗣️ Português (nativo) · Inglês C2 (EF SET 84/100) · Espanhol C1 · Coreano B1 · Alemão A2.
-- 📚 Mangás, manhwas, animes e jogos online (foi por eles que aprendi inglês).
-- 🗺️ Google Local Guide nível 6.
-- 🤝 Voluntário desde 2013: ONG Sonhar Acordado e ONG Boas Obras, onde criei o site da organização.
-- 🍄 [Minha linha do tempo interativa no estilo Super Mario World](https://voaneves.github.io/timeline/).
-
-[![Minha timeline de Super Mario](img/timeline.png)](https://voaneves.github.io/timeline/)
+  [![Minha timeline de Super Mario](img/timeline.png)](https://voaneves.github.io/timeline/)
 
 </details>
 
@@ -149,16 +289,41 @@ Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar**.
   <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
 </picture>
 
+<a id="contato"></a>
 ## 🤝 Vamos conversar
 
-Site, app, design system, GitOps, painel de BI ou IA aplicada? Chame no [LinkedIn](https://www.linkedin.com/in/voaneves/), conheça o portfólio em [voaneves.com](https://voaneves.com) ou envie um [e-mail](mailto:victorneves478@gmail.com).
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Consultoria em Engenharia, Design &amp; Dados</h3>
+      <ul>
+        <li><strong>Design Systems &amp; Acessibilidade:</strong> Tokens W3C DTCG, auditorias WCAG 2.2 AA / LBI e bibliotecas de UI</li>
+        <li><strong>Web &amp; Full Stack:</strong> Astro, Angular, Laravel, Java, Cloudflare e otimização Lighthouse 90+</li>
+        <li><strong>GitOps, BI &amp; IA Aplicada:</strong> Quality gates de CI/CD, painéis Power BI e automações com LLMs</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <p><strong>Brasil e exterior · Remoto ou híbrido</strong></p>
+      <p>
+        <a href="https://voaneves.com"><strong>🌐 voaneves.com</strong></a><br />
+        <a href="https://www.linkedin.com/in/voaneves/"><strong>💼 LinkedIn</strong></a> ·
+        <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a><br />
+        <a href="https://github.com/sponsors/voaneves"><strong>💖 GitHub Sponsors</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br />
+<div align="center">
+  <a href="https://voaneves.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/mark-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/brand/mark-light.svg" />
+      <img alt="VOANEVES." src="./assets/brand/mark-light.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <br />
+  <sub><strong>VOANEVES.</strong> · Sinal, não ruído. · <a href="https://voaneves.com">voaneves.com</a></sub>
+</div>
 
-<a href="https://voaneves.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/footer-pt-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/footer-pt-light.svg" />
-    <img alt="VOANEVES. — Sinal, não ruído. Consultoria em voaneves.com" src="./assets/brand/footer-pt-light.svg" width="100%" />
-  </picture>
-</a>
+<p align="right"><a href="#top">↑ Voltar ao topo</a></p>
