@@ -54,6 +54,7 @@ Cinco frentes integradas da arquitetura ao deploy:
 | :-: | :-- | :-- | :-- |
 | 🌐 | [**site**](https://github.com/voaneves/site) | Portfólio **VOANEVES.**: Astro, Cloudflare Pages, GitOps, testes automatizados e Lighthouse 100. | [voaneves.com](https://voaneves.com) |
 | 🎨 | [**brand**](https://github.com/voaneves/brand) | Identidade visual e design system (`@voaneves/brand`) em tokens W3C/DTCG, CSS, JS, fontes, ícones e WCAG 2.2 AA. | — |
+| 👁️ | [**dtcg-contrast**](https://github.com/voaneves/dtcg-contrast) | Quality gate WCAG 2.2 & APCA sem dependências e corretor OKLCH para design tokens W3C DTCG 2025.10 (CLI + GitHub Action). | [npm](https://www.npmjs.com/package/dtcg-contrast) |
 | 🐍 | [**snake-arena**](https://github.com/voaneves/snake-arena) | Benchmark reprodutível em Keras 3 de 14 algoritmos de Reinforcement Learning no Snake (749 testes em pytest). | — |
 | 🎮 | [**snake-on-pygame**](https://github.com/voaneves/snake-on-pygame) | Snake em Python e Pygame jogável por humano ou agente DQN treinado. | — |
 | 🎧 | [**paru-site**](https://github.com/voaneves/paru-site) | Site oficial do DJ e produtor PARU em Vite, React e TypeScript. | [Acessar site](https://voaneves.github.io/paru-site/) |

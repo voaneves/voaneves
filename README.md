@@ -56,6 +56,7 @@ Five integrated pillars from architecture to production delivery:
 | :-: | :-- | :-- | :-- |
 | 🌐 | [**site**](https://github.com/voaneves/site) | **VOANEVES.** portfolio: Astro, Cloudflare Pages, GitOps, automated tests & Lighthouse 100. | [voaneves.com/en/](https://voaneves.com/en/) |
 | 🎨 | [**brand**](https://github.com/voaneves/brand) | Brand identity & W3C DTCG design system (`@voaneves/brand`): tokens, CSS, JS, fonts, icons & WCAG 2.2 AA. | — |
+| 👁️ | [**dtcg-contrast**](https://github.com/voaneves/dtcg-contrast) | Zero-dependency WCAG 2.2 & APCA contrast gate and OKLCH auto-fixer for W3C DTCG 2025.10 tokens (CLI + GitHub Action). | [npm](https://www.npmjs.com/package/dtcg-contrast) |
 | 🐍 | [**snake-arena**](https://github.com/voaneves/snake-arena) | Reproducible Keras 3 benchmark of 14 Reinforcement Learning algorithms on Snake (749 pytest tests). | — |
 | 🎮 | [**snake-on-pygame**](https://github.com/voaneves/snake-on-pygame) | Classic Snake in Python & Pygame playable by human or trained DQN agent. | — |
 | 🎧 | [**paru-site**](https://github.com/voaneves/paru-site) | Official website for DJ & producer PARU built with Vite, React & TypeScript. | [Live site](https://voaneves.github.io/paru-site/) |
