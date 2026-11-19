@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.mjs text=auto eol=lf
+*.svg text=auto eol=lf
+*.md text=auto eol=lf

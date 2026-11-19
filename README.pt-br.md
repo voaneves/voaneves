@@ -3,22 +3,41 @@
 <p>🇧🇷 <strong>Português</strong> · <a href="./README.md">🇺🇸 English Version</a></p>
 
 <a href="https://voaneves.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=FF3838&center=true&vCenter=true&width=720&lines=VOANEVES.+%C2%B7+Victor+Neves;Desenvolvedor+Full+Stack+%26+Webdesigner;Java+%C2%B7+Laravel+%C2%B7+Angular+%C2%B7+Astro+%C2%B7+Jamstack;GitOps+%C2%B7+Serverless+%C2%B7+BI+%C2%B7+IA;Sinal%2C+n%C3%A3o+ru%C3%ADdo." alt="VOANEVES. · Victor Neves: desenvolvedor full stack e webdesigner. Java, Laravel, Angular, Astro, Jamstack, GitOps, serverless, BI e IA." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/profile-hero-pt-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/profile-hero-pt-light.svg" />
+    <img alt="VOANEVES. · Victor Neves — Desenvolvedor Full Stack e Webdesigner" src="./assets/brand/profile-hero-pt-light.svg" width="100%" />
+  </picture>
 </a>
 
-# VOANEVES. · Victor Neves — Desenvolvedor Full Stack e Webdesigner
-
-**Sinal, não ruído.** Design, dados e código, sem ruído.
 <br />
+
+<p>
+  <a href="https://voaneves.com"><img src="https://img.shields.io/badge/voaneves.com-0A0A0A?style=flat-square&logo=astro&logoColor=FF3838" alt="voaneves.com" /></a>
+  <a href="https://www.linkedin.com/in/voaneves/"><img src="https://img.shields.io/badge/LinkedIn-voaneves-0A0A0A?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@voaneves"><img src="https://img.shields.io/badge/YouTube-@voaneves-B80000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://stackoverflow.com/users/10596901/voaneves"><img src="https://img.shields.io/badge/Stack_Overflow-voaneves-0A0A0A?style=flat-square&logo=stackoverflow&logoColor=FF3838" alt="Stack Overflow" /></a>
+  <a href="https://voaneves.com/assets/cv-pt.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-5C5446?style=flat-square&logo=readthedocs&logoColor=white" alt="Currículo PDF" /></a>
+</p>
+
+<p>
+  <a href="#-sobre">Sobre</a> ·
+  <a href="#%EF%B8%8F-o-que-eu-fa%C3%A7o">Competências</a> ·
+  <a href="#-projetos-em-destaque">Projetos</a> ·
+  <a href="#-reconhecimentos">Reconhecimentos</a> ·
+  <a href="#-trajet%C3%B3ria-e-forma%C3%A7%C3%A3o">Trajetória</a> ·
+  <a href="#-vamos-conversar">Contato</a>
+</p>
+
 <sub>Atendimento no Brasil e no exterior, remoto ou híbrido · <code>voaneves</code></sub>
 
-[![Site](https://img.shields.io/badge/voaneves.com-0A0A0A?style=for-the-badge&logo=astro&logoColor=FF3838)](https://voaneves.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voaneves/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@voaneves)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10596901/voaneves)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://voaneves.com/assets/cv-pt.pdf)
-
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
+  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+</picture>
 
 ## 👋 Sobre
 
@@ -34,6 +53,12 @@ Programo desde os 11 anos. Desde março de 2026 atuo como **Analista Webdesigner
 | **+76%** | **+32%** | **+236%** | **Lighthouse** | **Bootcamps e IA** |
 | produtividade de MPEs no 1º ciclo | cumprimento trimestral de metas | alcance orgânico (MTE) | CAATO 43 → 92 · Mota & Godinho 62 → 91 | 4× 1º lugar + 1× 2º lugar · 13+ oficinas de IA |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
+  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+</picture>
+
 ## 🛠️ O que eu faço
 
 Cinco frentes integradas da arquitetura ao deploy:
@@ -46,7 +71,13 @@ Cinco frentes integradas da arquitetura ao deploy:
 | **4. Dados, BI e IA** | **Ciência de dados:** Python, Pandas, NumPy, Jupyter, Julia, ETL e modelagem · **BI:** **Power BI, Qlik Sense e Tableau**; SQL, NoSQL, Hadoop e MongoDB (`40+` painéis) · **IA generativa e LLMs (Amazon Bedrock):** engenharia de prompt, integrações, automações e `13+` oficinas de IA · **ML & RL:** Reinforcement Learning (DQN), redes neurais convolucionais (CNNs) e NLP com benchmarks reprodutíveis |
 | **5. Processos, gestão e estratégia** | **Processos:** **BPMN 2.0** (`+50` processos), mapeamento AS-IS e TO-BE, automação low-code · **Qualidade:** Lean Six Sigma Green Belt, **DMAIC**, Scrum, Kanban, gestão de riscos · **Estratégia:** OKRs (`+32%` metas trimestrais), Balanced Scorecard, Matriz BCG, McKinsey 7S, SWOT · Metodologia SEBRAE de produtividade para MPEs (`+76%` no 1º ciclo), transformação digital e desenvolvimento sustentável |
 
-<sub>Fonte única de posicionamento, competências e palavras-chave: [docs/perfil-tecnico.md](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md).</sub>
+<sub>Fonte única de posicionamento, competências e palavras-chave: [docs/perfil-tecnico.md](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md) · Padrão visual unificado: [README Brand System](./docs/README-BRAND-SYSTEM.md).</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
+  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+</picture>
 
 ## 🚀 Projetos em destaque
 
@@ -62,6 +93,12 @@ Cinco frentes integradas da arquitetura ao deploy:
 | 🐷 | [**meupoupig**](https://github.com/voaneves/meupoupig) | Jogo educativo interativo de educação financeira e investimentos. | [Jogar aqui](https://voaneves.github.io/meupoupig/) |
 
 <sub>Estudos de caso completos (MTE, painéis de BI, CAATO, Mota & Godinho, Boas Obras) em [voaneves.com/#projetos](https://voaneves.com/#projetos). Todos os repositórios: [github.com/voaneves?tab=repositories](https://github.com/voaneves?tab=repositories).</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
+  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+</picture>
 
 ## 🏆 Reconhecimentos
 
@@ -106,8 +143,22 @@ Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar**.
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
+  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+</picture>
+
 ## 🤝 Vamos conversar
 
 Site, app, design system, GitOps, painel de BI ou IA aplicada? Chame no [LinkedIn](https://www.linkedin.com/in/voaneves/), conheça o portfólio em [voaneves.com](https://voaneves.com) ou envie um [e-mail](mailto:victorneves478@gmail.com).
 
-<div align="center"><sub><strong>VOANEVES.</strong> · Sinal, não ruído. · <a href="https://voaneves.com">voaneves.com</a></sub></div>
+<br />
+
+<a href="https://voaneves.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/footer-pt-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/footer-pt-light.svg" />
+    <img alt="VOANEVES. — Sinal, não ruído. Consultoria em voaneves.com" src="./assets/brand/footer-pt-light.svg" width="100%" />
+  </picture>
+</a>
