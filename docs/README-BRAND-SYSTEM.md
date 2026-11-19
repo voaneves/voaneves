@@ -21,14 +21,14 @@ Therefore, **`voaneves/*` READMEs strictly restrict SVGs to pure iconic/geometri
 | Signal Ink | `#b80000` | `#ff5a5a` | Highlight badges (`B80000` — WCAG AA `5.78:1` on cream, `6.91:1` on white) |
 | Muted Sand | `#5c5446` | `#a69c86` | Secondary spec badges (`5C5446`) |
 
-## Authorial HTML + GFM Section Blueprint
+## Authorial HTML + GFM Feature Checklist
 
 1. `<a id="top"></a>` + centered language switch + `<picture>` Concept B Mark + responsive HTML `<h1>` / `<picture>` Wordmark
-2. Unified `flat-square` badges + centered quick-jump bar + `<details>` Table of Contents (`<ol>`)
-3. GitHub Callout Alert (`> [!NOTE]` or `> [!IMPORTANT]`) for instant executive positioning
-4. HTML **Bento Grid** (`<table>` with bold `<h3>` KPIs / capability cards) + native **Mermaid** architecture flow
-5. Native `diff` blocks, inline hex color chips (`` `#f50000` ``), collapsible `<details>` deep-dives / KaTeX math (`$$...$$`)
-6. Editorial HTML Colophon band (2-column consulting card + `32×32` `<picture>` mark + `<p align="right"><a href="#top">↑ Back to top</a></p>`)
+2. Unified `flat-square` badges + `<kbd>` command/stack chips + centered quick-jump bar + `<details>` Table of Contents (`<ol>`)
+3. GitHub Callout Alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!TIP]`, `> [!WARNING]`) for clear hierarchy
+4. HTML **Bento Grids** (`<table>`) + mobile-friendly **`<dl><dt><dd>`** definition lists + strikethrough metrics (`~~before~~ → **after**`)
+5. Native **Mermaid** diagrams (`flowchart LR`, `sequenceDiagram`, `xychart-beta`), **KaTeX** formulas (`$$...$$`), `diff` blocks, and inline hex color chips (`` `#f50000` ``)
+6. **Footnotes (`[^1]`)** + **reference-style links** + HTML Colophon (`32×32` `<picture>` mark + `<p align="right"><a href="#top">↑ Back to top</a></p>`)
 
 ## Generate Primitives for Any Repo
 

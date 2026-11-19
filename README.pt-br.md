@@ -26,7 +26,10 @@
 
 <p>
   <strong>Sinal, não ruído.</strong> Design, dados e código em produção — sem ruído.<br />
-  <sub>Atendimento no Brasil e no exterior, remoto ou híbrido · <code>voaneves</code> · 🇧🇷 Atendimento em PT, EN &amp; ES</sub>
+  <sub>
+    <kbd>W3C DTCG</kbd> · <kbd>WCAG 2.2 AA</kbd> · <kbd>GitOps</kbd> · <kbd>BPMN 2.0</kbd> · <kbd>Amazon Bedrock</kbd><br />
+    Atendimento no Brasil e no exterior, remoto ou híbrido · <code>voaneves</code> · 🇧🇷 Atendimento em PT, EN &amp; ES
+  </sub>
 </p>
 
 <p>
@@ -53,7 +56,7 @@
   <summary><strong>Índice</strong> — navegue por todas as seções</summary>
   <ol>
     <li><a href="#sobre">Posicionamento Executivo</a></li>
-    <li><a href="#impacto">Impacto Mensurável (KPIs)</a></li>
+    <li><a href="#impacto">Impacto Mensurável (KPIs &amp; Gráfico Lighthouse)</a></li>
     <li><a href="#arquitetura">Fluxo de Engenharia Ponta a Ponta</a></li>
     <li><a href="#competencias">Cinco Pilares de Competência</a></li>
     <li><a href="#projetos">Destaques &amp; Repositórios</a></li>
@@ -77,9 +80,9 @@
 Sou **Victor Otávio Andrade das Neves (Victor Neves)** e uno rigor de processos (BPMN), leitura de dados (BI), IA aplicada e engenharia web full stack em entregas em produção — dos tokens de design ao deploy resiliente:
 
 - **Analista Webdesigner @ ALETO** *(mar/2026–)*: design system, desenvolvimento full stack, GitOps e documentação como código.
-- **Fundador e Consultor @ [voaneves.com](https://voaneves.com)** *(2019–)*: `40+` painéis de BI, sites Jamstack de alta nota no Lighthouse, apps e auditoria WCAG 2.2.
+- **Fundador e Consultor @ [voaneves.com][site-pt]** *(2019–)*: `40+` painéis de BI, sites Jamstack de alta nota no Lighthouse, apps e auditoria WCAG 2.2.
 - **Avaliador @ Projeto Centelha** *(2023–)*: avaliador técnico de projetos de Big Data, IA e Engenharia.
-- **Ex-Gestor do Escritório de Processos, Analista Técnico e ALI @ SEBRAE Tocantins** *(2022–2026)*: `+50` processos BPMN 2.0, `+76%` de ganho de produtividade em MPEs e `13+` oficinas de IA.
+- **Ex-Gestor do Escritório de Processos, Analista Técnico e ALI @ SEBRAE Tocantins** *(2022–2026)*[^1]: `+50` processos BPMN 2.0, `+76%` de ganho de produtividade em MPEs e `13+` oficinas de IA.
 
 <a id="impacto"></a>
 ## 📈 Em números
@@ -118,10 +121,20 @@ Sou **Victor Otávio Andrade das Neves (Victor Neves)** e uno rigor de processos
     </td>
     <td width="25%" align="center">
       <h3>91–100</h3>
-      <sub>Saltos no Lighthouse: 43→92 e 62→91</sub>
+      <sub>Saltos no Lighthouse: <del>43</del> → <strong>92</strong> · <del>62</del> → <strong>91</strong></sub>
     </td>
   </tr>
 </table>
+
+Evolução comprovada de performance web em entregas em produção[^2][^3]:
+
+```mermaid
+xychart-beta
+    title "Evolucao de Score no Lighthouse"
+    x-axis ["CAATO (Antes)", "CAATO (Depois)", "Mota & Godinho (Antes)", "Mota & Godinho (Depois)", "voaneves.com"]
+    y-axis "Nota Lighthouse" 0 --> 100
+    bar [43, 92, 62, 91, 100]
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -180,7 +193,7 @@ flowchart LR
   </tr>
 </table>
 
-<sub>Fonte única de posicionamento e palavras-chave: <a href="https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md">brand/docs/perfil-tecnico.md</a> · Padrão visual: <a href="./docs/README-BRAND-SYSTEM.md">README Brand System</a>.</sub>
+Fonte única de posicionamento e palavras-chave: [`brand/docs/perfil-tecnico.md`][brand-perfil][^4] · Padrão visual: [`README Brand System`](./docs/README-BRAND-SYSTEM.md).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -230,7 +243,7 @@ flowchart LR
 
 </details>
 
-<sub>Estudos de caso completos (MTE, painéis de BI, CAATO, Mota &amp; Godinho, Boas Obras) em <a href="https://voaneves.com/#projetos">voaneves.com/#projetos</a> · Todos os repositórios: <a href="https://github.com/voaneves?tab=repositories">github.com/voaneves?tab=repositories</a>.</sub>
+Estudos de caso completos (MTE, painéis de BI, CAATO, Mota &amp; Godinho, Boas Obras) em [voaneves.com/#projetos][portfolio-pt] · [Todos os repositórios][all-repos].
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
@@ -292,27 +305,22 @@ Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar** em trilhas nacionais de e
 <a id="contato"></a>
 ## 🤝 Vamos conversar
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Consultoria em Engenharia, Design &amp; Dados</h3>
-      <ul>
-        <li><strong>Design Systems &amp; Acessibilidade:</strong> Tokens W3C DTCG, auditorias WCAG 2.2 AA / LBI e bibliotecas de UI</li>
-        <li><strong>Web &amp; Full Stack:</strong> Astro, Angular, Laravel, Java, Cloudflare e otimização Lighthouse 90+</li>
-        <li><strong>GitOps, BI &amp; IA Aplicada:</strong> Quality gates de CI/CD, painéis Power BI e automações com LLMs</li>
-      </ul>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <p><strong>Brasil e exterior · Remoto ou híbrido</strong></p>
-      <p>
-        <a href="https://voaneves.com"><strong>🌐 voaneves.com</strong></a><br />
-        <a href="https://www.linkedin.com/in/voaneves/"><strong>💼 LinkedIn</strong></a> ·
-        <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a><br />
-        <a href="https://github.com/sponsors/voaneves"><strong>💖 GitHub Sponsors</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<dl>
+  <dt><strong>Design Systems &amp; Auditorias de Acessibilidade</strong></dt>
+  <dd>Pipelines de tokens W3C DTCG 2025.10, auditorias técnicas WCAG 2.2 AA / LBI / EAA, contraste perceptual APCA e bibliotecas de UI do Figma ao código.</dd>
+  <dt><strong>Plataformas Web &amp; Full Stack</strong></dt>
+  <dd>Sites e aplicações em produção com Astro, Angular, Laravel, Java e Cloudflare Pages/Workers focados em Core Web Vitals e Lighthouse 90+.</dd>
+  <dt><strong>GitOps, BI &amp; IA Aplicada</strong></dt>
+  <dd>Quality gates automatizados em CI/CD (Lighthouse CI, Playwright, axe-core), painéis executivos Power BI e automações com LLMs (Amazon Bedrock).</dd>
+</dl>
+
+<p align="center">
+  <strong>Brasil e exterior · Remoto ou híbrido</strong><br />
+  <a href="https://voaneves.com"><strong>🌐 voaneves.com</strong></a> ·
+  <a href="https://www.linkedin.com/in/voaneves/"><strong>💼 LinkedIn</strong></a> ·
+  <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a> ·
+  <a href="https://github.com/sponsors/voaneves"><strong>💖 GitHub Sponsors</strong></a>
+</p>
 
 <div align="center">
   <a href="https://voaneves.com">
@@ -327,3 +335,13 @@ Resumo em bootcamps: **4× 1º lugar + 1× 2º lugar** em trilhas nacionais de e
 </div>
 
 <p align="right"><a href="#top">↑ Voltar ao topo</a></p>
+
+[^1]: Resultados apurados no SEBRAE Tocantins (`+76%` produtividade de MPEs no 1º ciclo, `+50` processos BPMN 2.0 e `+32%` metas trimestrais).
+[^2]: Projetos web da CAATO e Mota &amp; Godinho documentados em [voaneves.com/#projetos](https://voaneves.com/#projetos).
+[^3]: Crescimento orgânico (`+236%`) na Diretoria de Marketing da MTE (UNICAMP).
+[^4]: Fonte única de posicionamento técnico mantida em [`@voaneves/brand`](https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md).
+
+[site-pt]: https://voaneves.com
+[portfolio-pt]: https://voaneves.com/#projetos
+[brand-perfil]: https://github.com/voaneves/brand/blob/main/docs/perfil-tecnico.md
+[all-repos]: https://github.com/voaneves?tab=repositories
