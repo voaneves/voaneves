@@ -1,0 +1,49 @@
+{
+  "repo": "voaneves",
+  "branch": "main",
+  "lang": "en",
+  "license": "MIT",
+  "name": "voaneves",
+  "tagline": "GitHub profile of Victor Neves: full stack, design systems and applied AI.",
+  "description": "GitHub profile README: full stack, design systems and applied AI work, featured projects and contact links.",
+  "logo": {
+    "existing": "assets/brand/mark-light.svg"
+  },
+  "buttons": [
+    {
+      "id": "hire",
+      "text": "Let's talk",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/en/#contact",
+      "landing": false
+    },
+    {
+      "id": "site",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/en/",
+      "landing": false
+    },
+    {
+      "id": "hire-pt",
+      "text": "Vamos conversar",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/#contato",
+      "landing": false
+    },
+    {
+      "id": "site-pt",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/",
+      "landing": false
+    }
+  ],
+  "landing": false,
+  "live_url": null,
+  "profile": true
+}

@@ -32,11 +32,12 @@
   </sub>
 </p>
 
+<p><sub>Need something like this? <a href="https://voaneves.com/en/#contact"><strong>Let's talk →</strong></a></sub></p>
+
 <p>
   <a href="https://voaneves.com/en/"><img src="https://img.shields.io/badge/voaneves.com-0A0A0A?style=flat-square&logo=astro&logoColor=FF3838" alt="voaneves.com" /></a>
   <a href="https://www.linkedin.com/in/voaneves/"><img src="https://img.shields.io/badge/LinkedIn-voaneves-0A0A0A?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@voaneves"><img src="https://img.shields.io/badge/YouTube-@voaneves-B80000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://stackoverflow.com/users/10596901/voaneves"><img src="https://img.shields.io/badge/Stack_Overflow-voaneves-0A0A0A?style=flat-square&logo=stackoverflow&logoColor=FF3838" alt="Stack Overflow" /></a>
   <a href="https://voaneves.com/assets/cv-pt.pdf"><img src="https://img.shields.io/badge/CV_%2F_Resume-PT--BR_PDF-5C5446?style=flat-square&logo=readthedocs&logoColor=white" alt="CV / Resume PDF" /></a>
 </p>
 
@@ -315,20 +316,19 @@ Bootcamp track record: **4× 1st place + 1× 2nd place** across national enginee
 </dl>
 
 <p align="center">
+  <a href="https://voaneves.com/en/#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/hire-dark.svg" /><img alt="Let's talk" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/hire-light.svg" height="40" /></picture></a>
+  <a href="https://voaneves.com/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/site-dark.svg" /><img alt="voaneves.com" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/site-light.svg" height="40" /></picture></a>
+</p>
+
+<p align="center">
   <strong>Available worldwide · Remote / Hybrid</strong><br />
-  <a href="https://voaneves.com/en/"><strong>🌐 voaneves.com/en/</strong></a> ·
   <a href="https://www.linkedin.com/in/voaneves/"><strong>💼 LinkedIn</strong></a> ·
-  <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a> ·
-  <a href="https://github.com/sponsors/voaneves"><strong>💖 GitHub Sponsors</strong></a>
+  <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a>
 </p>
 
 <div align="center">
   <a href="https://voaneves.com/en/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/mark-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/brand/mark-light.svg" />
-      <img alt="VOANEVES." src="./assets/brand/mark-light.svg" width="32" height="32" />
-    </picture>
+    <img alt="VOANEVES mark" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/mark-duo.svg" width="32" height="32" />
   </a>
   <br />
   <sub><strong>VOANEVES.</strong> · Signal, not noise. · <a href="https://voaneves.com/en/">voaneves.com</a></sub>
