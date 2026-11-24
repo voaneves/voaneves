@@ -1,17 +1,19 @@
-# VOANEVES. README Brand System (v2 — Mobile-First Editorial)
+# VOANEVES. README Brand System (Mobile-First Editorial Spec)
 
-Every `voaneves/*` repository shares a unified visual architecture derived from [`@voaneves/brand`](https://github.com/voaneves/brand) (**Concept B — Sinal**).
+Every `voaneves/*` repository shares a unified README layout derived from [`@voaneves/brand`](https://github.com/voaneves/brand/blob/main/docs/readme-spec.md) and automated via [`readme-kit`](https://github.com/voaneves/dtcg-contrast/tree/main/scripts/readme-kit).
 
-## Core UX Rule: Zero Tiny Text Inside SVGs
+## Core Principle: Standalone Product Logos, Unified README Frame
 
-Wide SVG hero cards shrink to 360px on phones, turning SVG captions and tags illegible.
-Therefore, **`voaneves/*` READMEs strictly restrict SVGs to pure iconic/geometric primitives**, while all headlines, subheads, KPIs, badges, diagrams, and CTAs render as responsive native **HTML + GitHub Flavored Markdown**:
+- **Each product keeps its own unique logo** (custom mark, mascot, or emblem — never force a uniform VOANEVES logo frame onto products) so every repository stands on its own and grows organically.
+- **Zero tiny text inside SVGs:** Wide SVG hero cards shrink on phones, turning SVG captions illegible. Only iconic marks, CTA buttons (with outlined type paths), and the editorial divider are SVGs; headlines, KPIs, badges, diagrams, and links stay native HTML + GitHub Flavored Markdown.
+- **Public vs. private image URLs:** Public repositories use absolute `https://raw.githubusercontent.com/voaneves/<repo>/<default-branch>/…` URLs; private repositories use relative `./…` paths so GitHub renders assets while private.
 
-| Primitive | Light | Dark | Recommended Size |
+| Primitive / Asset | Light | Dark | Recommended Size |
 | :--- | :--- | :--- | :--- |
-| **Concept B Mark** | `mark-light.svg` (`#0a0a0a` + `#f50000`) | `mark-dark.svg` (`#ffffff` + `#ff3838`) | `76px`–`88px` hero / `32px` colophon |
-| **Wordmark (`VOANEVES.`)** | `wordmark-light.svg` (`#0a0a0a` + `#f50000`) | `wordmark-dark.svg` (`#e8dec5` + `#ff3838`) | `width="260"` |
-| **Editorial Divider** | `rule-light.svg` (`rgba(10,10,10,0.16)` + `#f50000`) | `rule-dark.svg` (`rgba(232,222,197,0.16)` + `#ff3838`) | `width="100%"` |
+| **Product Logo** | Product's own logo (`logo-light.svg` or standalone mark) | Product's own logo (`logo-dark.svg` or theme-safe mark) | `112×112` hero (`76×76` on profile) |
+| **CTA Buttons** | `assets/buttons/<id>-light.svg` | `assets/buttons/<id>-dark.svg` | `height="40"` (max 2 in hero, 2 in footer) |
+| **Editorial Divider** | `assets/brand/rule-light.svg` | `assets/brand/rule-dark.svg` | `width="100%"` (exactly 1 after hero) |
+| **Author Colophon Mark** | `assets/brand/mark-duo.svg` | `assets/brand/mark-duo.svg` (single file, no `<picture>`) | `32×32` centered in footer |
 
 ## Canonical Palette & Badge Grammar
 
@@ -21,17 +23,24 @@ Therefore, **`voaneves/*` READMEs strictly restrict SVGs to pure iconic/geometri
 | Signal Ink | `#b80000` | `#ff5a5a` | Highlight badges (`B80000` — WCAG AA `5.78:1` on cream, `6.91:1` on white) |
 | Muted Sand | `#5c5446` | `#a69c86` | Secondary spec badges (`5C5446`) |
 
-## Authorial HTML + GFM Feature Checklist
+All generated button, logo, and colophon tokens in `.github/readme-kit/tokens.json` are gated on every push by `.github/workflows/readme-kit.yml` using `voaneves/dtcg-contrast@v1`.
 
-1. `<a id="top"></a>` + centered language switch + `<picture>` Concept B Mark + responsive HTML `<h1>` / `<picture>` Wordmark
-2. Unified `flat-square` badges + `<kbd>` command/stack chips + centered quick-jump bar + `<details>` Table of Contents (`<ol>`)
-3. GitHub Callout Alerts (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!TIP]`, `> [!WARNING]`) for clear hierarchy
-4. HTML **Bento Grids** (`<table>`) + mobile-friendly **`<dl><dt><dd>`** definition lists + strikethrough metrics (`~~before~~ → **after**`)
-5. Native **Mermaid** diagrams (`flowchart LR`, `sequenceDiagram`, `xychart-beta`), **KaTeX** formulas (`$$...$$`), `diff` blocks, and inline hex color chips (`` `#f50000` ``)
-6. **Footnotes (`[^1]`)** + **reference-style links** + HTML Colophon (`32×32` `<picture>` mark + `<p align="right"><a href="#top">↑ Back to top</a></p>`)
+## README Spec Checklist
 
-## Generate Primitives for Any Repo
+1. `<a id="top"></a>` + centered `<div align="center">` Hero with plain-text language switcher (only when bilingual, no flag emojis, `lang` attribute set), `112×112` product logo, `<h1>` project name, one bold tagline, optional `<sub>` subtitle.
+2. At most 2 CTA buttons (`height="40"`), one hire line (`Need something like this? Let's talk →`), at most 4 accurate `flat-square` badges, and a one-line text nav (no `<details>` Table of Contents).
+3. Exactly **one** `rule-*.svg` divider between Hero and first section.
+4. First section opens with **one** plain-language sentence saying what the project does for a person.
+5. No emoji in `##`/`###` headings (`✅` `❌` `⚠️` inside tables are fine); tables `<= 4` columns so they fit at `390px`.
+6. Footer: `## Contact` / `## Contato` with 2 CTA buttons (`hire` + `voaneves.com`), `LinkedIn · E-mail` text links, `32×32` `mark-duo.svg`, license line, and centered `↑ Back to top` / `↑ Voltar ao topo`.
+
+## Generate Assets & Contrast Gate for a Repo
 
 ```bash
-node scripts/brand-readme.mjs --primitives ../<repo>/assets/brand
+python ../dtcg-contrast/scripts/readme-kit/build.py \
+  --manifest .github/readme-kit/manifest.json \
+  --repo-dir . \
+  --only buttons,brand,tokens,workflow \
+  --no-png \
+  --brand-fonts ../brand/fonts
 ```

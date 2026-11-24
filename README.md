@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<p>🇺🇸 <strong>English</strong> · <a href="./README.pt-br.md">🇧🇷 Versão em Português (PT-BR)</a></p>
+<p><strong>English</strong> · <a href="./README.pt-br.md" lang="pt-BR">Português (PT-BR)</a></p>
 
 <a href="https://voaneves.com/en/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/mark-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/mark-light.svg" />
-    <img alt="VOANEVES. Concept B (Sinal) mark" src="./assets/brand/mark-light.svg" width="76" height="76" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/mark-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/mark-light.svg" />
+    <img alt="VOANEVES. Concept B (Sinal) mark" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/mark-light.svg" width="76" height="76" />
   </picture>
 </a>
 
@@ -16,9 +16,9 @@
 
 <a href="https://voaneves.com/en/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/wordmark-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/wordmark-light.svg" />
-    <img alt="VOANEVES." src="./assets/brand/wordmark-light.svg" width="260" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/wordmark-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/wordmark-light.svg" />
+    <img alt="VOANEVES." src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/wordmark-light.svg" width="260" />
   </picture>
 </a>
 
@@ -28,8 +28,13 @@
   <strong>Signal, not noise.</strong> Design, data, and production code — minus the noise.<br />
   <sub>
     <kbd>W3C DTCG</kbd> · <kbd>WCAG 2.2 AA</kbd> · <kbd>GitOps</kbd> · <kbd>BPMN 2.0</kbd> · <kbd>Amazon Bedrock</kbd><br />
-    Serving Brazil and worldwide, remote or hybrid · <code>voaneves</code> · 🇧🇷 Atendimento em PT, EN &amp; ES
+    Serving Brazil and worldwide, remote or hybrid · <code>voaneves</code> · PT, EN &amp; ES
   </sub>
+</p>
+
+<p>
+  <a href="https://voaneves.com/en/#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/hire-dark.svg" /><img alt="Let's talk" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/hire-light.svg" height="40" /></picture></a>
+  <a href="https://voaneves.com/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/site-dark.svg" /><img alt="voaneves.com" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/buttons/site-light.svg" height="40" /></picture></a>
 </p>
 
 <p><sub>Need something like this? <a href="https://voaneves.com/en/#contact"><strong>Let's talk →</strong></a></sub></p>
@@ -53,27 +58,14 @@
 
 </div>
 
-<details>
-  <summary><strong>Table of Contents</strong> — navigate every section</summary>
-  <ol>
-    <li><a href="#about">Executive Positioning</a></li>
-    <li><a href="#impact">Measurable Impact (KPIs &amp; Lighthouse Chart)</a></li>
-    <li><a href="#architecture">End-to-End Engineering Workflow</a></li>
-    <li><a href="#capabilities">Five Core Capabilities</a></li>
-    <li><a href="#projects">Flagship Spotlights &amp; Repositories</a></li>
-    <li><a href="#awards">Awards, Credentials &amp; Full Career Trajectory</a></li>
-    <li><a href="#contact">Consulting &amp; Direct Contact</a></li>
-  </ol>
-</details>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
-  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" width="100%" />
 </picture>
 
 <a id="about"></a>
-## 👋 About
+## About
 
 > [!NOTE]
 > **Engineering rigor meets measurable product craft.** Mechanical Engineer (**UNICAMP**, 2012–2018), Postgraduate in **BI, Big Data & Artificial Intelligence** (**Faculdade Focus**, 2023–2024), and **B.Sc. in Information Systems** candidate (**XP Educação**, 2023–2027). Coding since age 11.
@@ -86,41 +78,45 @@ I am **Victor Otávio Andrade das Neves (Victor Neves)**, combining process arch
 - **Former Process Office Manager, Technical Analyst & Innovation Agent @ SEBRAE Tocantins** *(2022–2026)*[^1]: led `+50` BPMN 2.0 mappings, `+76%` SMB productivity uplift, and `13+` AI workshops.
 
 <a id="impact"></a>
-## 📈 By the Numbers
+## By the Numbers
 
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>8+ yrs</h3>
       <sub>Data, processes &amp; production code shipped</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>40+</h3>
       <sub>Web apps, sites &amp; Jamstack products delivered</sub>
     </td>
-    <td width="25%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>40+</h3>
       <sub>Executive Power BI &amp; Qlik Sense dashboards</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>+50</h3>
       <sub>BPMN 2.0 processes mapped &amp; optimized</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>+76%</h3>
       <sub>SMB productivity uplift in SEBRAE cycle 1</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>+32%</h3>
       <sub>Quarterly OKR goal completion rate</sub>
     </td>
-    <td width="25%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>+236%</h3>
       <sub>Organic reach growth at MTE (UNICAMP)</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h3>91–100</h3>
       <sub>Lighthouse leaps: <del>43</del> → <strong>92</strong> · <del>62</del> → <strong>91</strong></sub>
     </td>
@@ -137,14 +133,8 @@ xychart-beta
     bar [43, 92, 62, 91, 100]
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
-  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
-</picture>
-
 <a id="architecture"></a>
-## 🧭 How Design, Data &amp; Code Connect
+## How Design, Data &amp; Code Connect
 
 ```mermaid
 flowchart LR
@@ -155,7 +145,7 @@ flowchart LR
 ```
 
 <a id="capabilities"></a>
-## 🛠️ Core Capabilities
+## Core Capabilities
 
 <table>
   <tr>
@@ -196,37 +186,31 @@ flowchart LR
 
 Single source of truth for positioning &amp; keywords (PT-BR): [`brand/docs/perfil-tecnico.md`][brand-perfil][^4] · Visual spec: [`README Brand System`](./docs/README-BRAND-SYSTEM.md).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
-  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
-</picture>
-
 <a id="projects"></a>
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/voaneves/dtcg-contrast">dtcg-contrast</a></h3>
+      <h3><a href="https://github.com/voaneves/dtcg-contrast">dtcg-contrast</a></h3>
       <p>Zero-dependency WCAG 2.2 &amp; APCA contrast gate, SARIF 2.1.0 analyzer, and hue-preserving OKLCH auto-fixer for W3C DTCG 2025.10 tokens.</p>
       <p><a href="https://www.npmjs.com/package/dtcg-contrast"><strong>npm package</strong></a> · <a href="https://github.com/voaneves/dtcg-contrast"><strong>GitHub Action</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/voaneves/brand">brand (@voaneves/brand)</a></h3>
+      <h3><a href="https://github.com/voaneves/brand">brand (@voaneves/brand)</a></h3>
       <p>Canonical brand identity &amp; W3C DTCG design system: Concept B (Sinal) geometry, tokens, layered CSS, vanilla ES modules, icons &amp; WCAG 2.2 AA.</p>
       <p><a href="https://github.com/voaneves/brand"><strong>Inspect Design System</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/voaneves/site">site (voaneves.com)</a></h3>
+      <h3><a href="https://github.com/voaneves/site">site (voaneves.com)</a></h3>
       <p>Bilingual consulting portfolio built with Astro, Cloudflare Pages, GitOps workflows, automated Playwright/a11y tests, and Lighthouse 100.</p>
       <p><a href="https://voaneves.com/en/"><strong>Live Site</strong></a> · <a href="https://voaneves.com/en/#portfolio"><strong>Case Studies</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/voaneves/snake-arena">snake-arena</a></h3>
-      <p>Reproducible Keras 3 benchmark comparing 14 Reinforcement Learning algorithms on Snake, backed by 749 automated pytest tests.</p>
+      <h3><a href="https://github.com/voaneves/snake-arena">snake-arena</a></h3>
+      <p>Reproducible Keras 3 benchmark comparing 14 Reinforcement Learning algorithms on Snake, backed by 1,383 automated tests.</p>
       <p><a href="https://github.com/voaneves/snake-arena"><strong>Explore Benchmark</strong></a></p>
     </td>
   </tr>
@@ -246,14 +230,8 @@ Single source of truth for positioning &amp; keywords (PT-BR): [`brand/docs/perf
 
 Full case studies (MTE, BI dashboards, CAATO, Mota &amp; Godinho, Boas Obras) at [voaneves.com/en/#portfolio][portfolio-en] · [All repositories][all-repos].
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
-  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
-</picture>
-
 <a id="awards"></a>
-## 🏆 Awards &amp; Credentials
+## Awards &amp; Credentials
 
 Bootcamp track record: **4× 1st place + 1× 2nd place** across national engineering &amp; AI cohorts.
 
@@ -293,18 +271,12 @@ Bootcamp track record: **4× 1st place + 1× 2nd place** across national enginee
   - 🤝 Volunteer since 2013: ONG Sonhar Acordado and ONG Boas Obras (where I built the organization's website).
   - 🍄 [Interactive Super Mario World career timeline](https://voaneves.github.io/timeline/)
 
-  [![My Super Mario World career timeline](img/timeline.png)](https://voaneves.github.io/timeline/)
+  [![My Super Mario World career timeline](https://raw.githubusercontent.com/voaneves/voaneves/main/img/timeline.png)](https://voaneves.github.io/timeline/)
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/rule-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/rule-light.svg" />
-  <img alt="" src="./assets/brand/rule-light.svg" width="100%" />
-</picture>
-
 <a id="contact"></a>
-## 🤝 Work Together
+## Contact
 
 <dl>
   <dt><strong>Design Systems &amp; Accessibility Audits</strong></dt>
@@ -322,8 +294,8 @@ Bootcamp track record: **4× 1st place + 1× 2nd place** across national enginee
 
 <p align="center">
   <strong>Available worldwide · Remote / Hybrid</strong><br />
-  <a href="https://www.linkedin.com/in/voaneves/"><strong>💼 LinkedIn</strong></a> ·
-  <a href="mailto:victorneves478@gmail.com"><strong>✉️ E-mail</strong></a>
+  <a href="https://www.linkedin.com/in/voaneves/">LinkedIn</a> ·
+  <a href="mailto:victorneves478@gmail.com">E-mail</a>
 </p>
 
 <div align="center">
@@ -334,7 +306,7 @@ Bootcamp track record: **4× 1st place + 1× 2nd place** across national enginee
   <sub><strong>VOANEVES.</strong> · Signal, not noise. · <a href="https://voaneves.com/en/">voaneves.com</a></sub>
 </div>
 
-<p align="right"><a href="#top">↑ Back to top</a></p>
+<p align="center"><sub><a href="#top">↑ Back to top</a></sub></p>
 
 [^1]: SEBRAE Tocantins cycle-1 SMB productivity uplift (`+76%`), Process Office BPMN 2.0 mappings (`+50`), and quarterly goal completion (`+32%`).
 [^2]: CAATO &amp; Mota &amp; Godinho production web performance rebuilds documented in [voaneves.com/en/#portfolio](https://voaneves.com/en/#portfolio).
