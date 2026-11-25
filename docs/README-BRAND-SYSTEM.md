@@ -28,8 +28,8 @@ All generated button, logo, and colophon tokens in `.github/readme-kit/tokens.js
 ## README Spec Checklist
 
 1. `<a id="top"></a>` + centered `<div align="center">` Hero with plain-text language switcher (only when bilingual, no flag emojis, `lang` attribute set), `112×112` product logo, `<h1>` project name, one bold tagline, optional `<sub>` subtitle.
-2. At most 2 CTA buttons (`height="40"`), one hire line (`Need something like this? Let's talk →`), at most 4 accurate `flat-square` badges, and a one-line text nav (no `<details>` Table of Contents).
-3. Exactly **one** `rule-*.svg` divider between Hero and first section.
+2. At most 2 CTA buttons (`height="40"`), one hire line (`Need something like this? Let's talk →`), and at most 4 accurate `flat-square` badges closing the centered Hero (no inline blue link bar inside the Hero).
+3. Exactly **one** `rule-*.svg` divider between Hero and body, followed directly by a collapsible `<details>` section index (`<summary><strong>Contents</strong> — jump to a section</summary>` / `<summary><strong>Conteúdo</strong> — ir direto para uma seção</summary>`).
 4. First section opens with **one** plain-language sentence saying what the project does for a person.
 5. No emoji in `##`/`###` headings (`✅` `❌` `⚠️` inside tables are fine); tables `<= 4` columns so they fit at `390px`.
 6. Footer: `## Contact` / `## Contato` with 2 CTA buttons (`hire` + `voaneves.com`), `LinkedIn · E-mail` text links, `32×32` `mark-duo.svg`, license line, and centered `↑ Back to top` / `↑ Voltar ao topo`.

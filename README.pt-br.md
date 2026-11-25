@@ -46,16 +46,6 @@
   <a href="https://voaneves.com/assets/cv-pt.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-5C5446?style=flat-square&logo=readthedocs&logoColor=white" alt="Currículo PDF" /></a>
 </p>
 
-<p>
-  <a href="#sobre">Sobre</a> ·
-  <a href="#impacto">Em números</a> ·
-  <a href="#arquitetura">Fluxo</a> ·
-  <a href="#competencias">Competências</a> ·
-  <a href="#projetos">Projetos</a> ·
-  <a href="#premios">Prêmios</a> ·
-  <a href="#contato">Contato</a>
-</p>
-
 </div>
 
 <picture>
@@ -63,6 +53,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" />
   <img alt="" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" width="100%" />
 </picture>
+
+<details>
+  <summary><strong>Conteúdo</strong> — ir direto para uma seção</summary>
+
+- [Sobre](#sobre)
+- [Em números](#impacto)
+- [Como Design, Dados e Código se Conectam](#arquitetura)
+- [O que eu faço](#competencias)
+- [Projetos em destaque](#projetos)
+- [Reconhecimentos](#premios)
+- [Contato](#contato)
+
+</details>
 
 <a id="sobre"></a>
 ## Sobre

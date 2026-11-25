@@ -46,16 +46,6 @@
   <a href="https://voaneves.com/assets/cv-pt.pdf"><img src="https://img.shields.io/badge/CV_%2F_Resume-PT--BR_PDF-5C5446?style=flat-square&logo=readthedocs&logoColor=white" alt="CV / Resume PDF" /></a>
 </p>
 
-<p>
-  <a href="#about">About</a> ·
-  <a href="#impact">Impact</a> ·
-  <a href="#architecture">Workflow</a> ·
-  <a href="#capabilities">Capabilities</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#awards">Awards</a> ·
-  <a href="#contact">Contact</a>
-</p>
-
 </div>
 
 <picture>
@@ -63,6 +53,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" />
   <img alt="" src="https://raw.githubusercontent.com/voaneves/voaneves/main/assets/brand/rule-light.svg" width="100%" />
 </picture>
+
+<details>
+  <summary><strong>Contents</strong> — jump to a section</summary>
+
+- [About](#about)
+- [By the Numbers](#impact)
+- [How Design, Data &amp; Code Connect](#architecture)
+- [Core Capabilities](#capabilities)
+- [Featured Projects](#projects)
+- [Awards &amp; Credentials](#awards)
+- [Contact](#contact)
+
+</details>
 
 <a id="about"></a>
 ## About
